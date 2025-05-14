@@ -1,0 +1,985 @@
+image_path,questions,answers
+/kaggle/input/sqid-test/images/B01469HU8K.jpg,How many pairs?|What color above?|What shape are glasses?|What material frame?|What item pictured?,Five|Black|Rectangular|Metal|Glasses
+/kaggle/input/sqid-test/images/B083C6HZZX.jpg,What is the object?|What color is it?|What is the handle?|How many strings?|Is the bow straight?,Bow|Black|Wood|One|Bent
+/kaggle/input/sqid-test/images/B07MHMN3Y8.jpg,What are these?|How many syringes?|What color are they?|What material are they?|What number shows on one?,Syringes|Four|Clear|Plastic|Twenty
+/kaggle/input/sqid-test/images/B07GDS514N.jpg,What objects are shown?|How many boxes?|What color is one?|What is it made of?|What shape are they?,Containers|Four|Green|Plastic|Square
+/kaggle/input/sqid-test/images/B083PW1CW4.jpg,Background color?|How many hands?|Is object retractable?|What word appears?|Image depicts what?,Black|One|Attached|Snap|Skeleton
+/kaggle/input/sqid-test/images/B0875ZKF1K.jpg,What object is this?|What color is it?|How many stripes?|What is material?|Where is shoe?,Shoe|Yellow|Three|Plastic|Outside
+/kaggle/input/sqid-test/images/B086XJRBTJ.jpg,What is worn?|What color?|How many shoes?|What pose?|What material?,Pants|Black|Two|Standing|Fabric
+/kaggle/input/sqid-test/images/B099DHQC5W.jpg,What animal is this?|What is dog's color?|What is the dog wearing?|How many legs?|What is the dog doing?,Dog|Brown|Diaper|Four|Standing
+/kaggle/input/sqid-test/images/B07N4KNVNP.jpg,What is the object?|What color is sand?|What is underneath?|What kind of water?|What is advertised?,Television|Brown|Rocks|Ocean|QLED
+/kaggle/input/sqid-test/images/B017VF9YAS.jpg,What are these?|What color are they?|What shape are these?|What is it made of?|How many hangers?,Hangers|Silver|Curved|Metal|Ten
+/kaggle/input/sqid-test/images/B07CZ2Y9LW.jpg,What food is pictured?|How many packs?|What color is ginger?|What calorie count?|What is cookies' thickness?,Cookies|Three|Orange|Seventy|Thin
+/kaggle/input/sqid-test/images/B07ZQRPBR9.jpg,What are these?|How many pads?|What color?|Shape?|Material?,Pads|Two|Blue|Rectangular|Microfiber
+/kaggle/input/sqid-test/images/B00WIF2T7C.jpg,What is the main object?|What color is radio?|How many knobs?|Is phone charging?|What color is handle?,Radio|Red|Two|Charging|Black
+/kaggle/input/sqid-test/images/B07KF1MTRP.jpg,What is the main object?|What color is the controller?|How many characters visible?|What holiday theme is present?|What weapon is visible?,Controller|Black|Two|Christmas|Gun
+/kaggle/input/sqid-test/images/B07PGPMFFN.jpg,What footwear are shown?|What color are the shoes?|What are the pants?|How many shoes?|Is toe area open?,Shoes|Brown|Denim|Two|Open
+/kaggle/input/sqid-test/images/B086JD7TKZ.jpg,What object is shown?|What color is predominant?|How many masks?|What color is background?|Is mask foldable?,Mask|White|Five|Red|Foldable
+/kaggle/input/sqid-test/images/B0778XLHH9.jpg,What weapon is this?|What color is taser?|How many items?|What is material?|Is key ring attached?,Taser|Purple|Two|Plastic|Attached
+/kaggle/input/sqid-test/images/B082TX7C7R.jpg,What is the main object?|What is the dominant color?|What is pictured?|Where is the background?|How many stands?,Case|White|Leaves|Behind|One
+/kaggle/input/sqid-test/images/B07WYJRGGY.jpg,What is this?|What color?|Material?|Sole color?|How many?,Shoe|Beige|Canvas|White|One
+/kaggle/input/sqid-test/images/B00DETAF7M.jpg,What item is pictured?|How many paints?|What color is Benzimidazolone?|What is container material?|What color is Nickel?,Paints|Five|Yellow|Plastic|Gold
+/kaggle/input/sqid-test/images/B07T9GP3M2.jpg,How many mouthguards?|What color is the container?|What is the mouthguard color?|What is the material?|What object is behind?,One|Black|Clear|Plastic|Case
+/kaggle/input/sqid-test/images/B00KVKOOR4.jpg,What part is shown?|What color is PCB?|How many gigabytes?|What color are pins?|What shape is card?,RAM|Green|Eight|Gold|Rectangular
+/kaggle/input/sqid-test/images/B07TTLVCYK.jpg,What is the product?|What color is it?|What is the shape?|How many ingredients?|Are scents listed?,Cream|Red|Round|One|None
+/kaggle/input/sqid-test/images/B076BBWCVK.jpg,What color is background?|What language is written?|What sits on trash?|How many circles shown?|What contains hands?,Orange|Korean|Bird|Five|Trash
+/kaggle/input/sqid-test/images/B07HSSCWD8.jpg,What is the main object?|What color is spacebar?|How many keys?|What is background color?|What shape is keyboard?,Keyboard|Orange|Many|Grey|Rectangular
+/kaggle/input/sqid-test/images/B083ZHGYK5.jpg,What is the object?|What is the border color?|What is the screen shape?|Are buttons visible?|How many cameras?,Phone|Black|Oval|None|One
+/kaggle/input/sqid-test/images/B07621BM5H.jpg,What glows brightly?|What fuel is used?|What color are flames?|How many legs exist?|What is the fire doing?,Fire|Logs|Orange|Four|Burning
+/kaggle/input/sqid-test/images/B08TT1M2V2.jpg,What color is car?|How many tires?|What color wheels?|What object racing?|How many batteries?,Blue|Six|Black|Car|Two
+/kaggle/input/sqid-test/images/B07Y8XPLK1.jpg,What are the tablets?|What color is RESVERATROL?|How many pills lay?|What color is bottle?|What supplement is this?,Capsules|Purple|Four|White|Resveratrol
+/kaggle/input/sqid-test/images/B07H936BZT.jpg,What is the main object?|What color is the tablet?|What color is the badge?|How many years warranty?|What activity happens on screen?,Tablet|Purple|Orange|Two|Reading
+/kaggle/input/sqid-test/images/B00M9OJTYI.jpg,What is the object?|What color is it?|What is the material?|How many zippers?|Is it zipped?,Backpack|Black|Fabric|Two|Yes
+/kaggle/input/sqid-test/images/B08428LQKP.jpg,What house number appears?|What objects appear numerous?|What color is the background?|What word is prominent?|How many houses exist?,Two|Cards|Brown|Welcome|Several
+/kaggle/input/sqid-test/images/B07628HLTM.jpg,What is the main object?|What color is it?|How many antennas?|What is the orientation?|What brand is this?,Router|Black|Four|Horizontal|Asus
+/kaggle/input/sqid-test/images/B01NACTPBL.jpg,What item is this?|What color is it?|What is it made of?|What color are the grommets?|What style is this?,Belt|Black|Leather|Gold|Corset
+/kaggle/input/sqid-test/images/B085N3MX5K.jpg,What product is shown?|What color are organizers?|How many organizers?|What shape are organizers?|What material are organizers?,Organizers|Black|Two|Rectangle|Leather
+/kaggle/input/sqid-test/images/B08TGXG8CV.jpg,What animal is this?|What color is fur?|What color is collar?|How many dogs?|What is the texture?,Dog|White|Pink|One|Fluffy
+/kaggle/input/sqid-test/images/B00HHCZYTQ.jpg,What object is this?|What color is it?|What shape is it?|Are there any items?|How many trays?,Tray|White|Square|None|One
+/kaggle/input/sqid-test/images/B07B8NPJM6.jpg,Who is visible?|What is color?|How many zippers?|What is brunette?|What is she wearing?,Woman|White|One|Hair|Bodysuit
+/kaggle/input/sqid-test/images/B00JWZGIUU.jpg,What is this?|What color is body?|What is material?|What color is gate?|How many objects?,Carabiner|Silver|Metal|Orange|One
+/kaggle/input/sqid-test/images/B0000E1717.jpg,What object is shown?|What color is background?|What color is case?|How many persons pictured?|What brand is it?,CD|Blue|White|One|Maxell
+/kaggle/input/sqid-test/images/B01HOTY0LO.jpg,What toy is pictured?|What color is handle?|What is the cable?|How many discs?|How is cable positioned?,Zipline|Green|Metal|One|Coiled
+/kaggle/input/sqid-test/images/B00EYMYWO0.jpg,What is he wearing?|What color is shirt?|What color are stripes?|How many logos?|What's the material?,Shirt|White|Black|One|Cotton
+/kaggle/input/sqid-test/images/B00GW7NGF6.jpg,What is she wearing?|What color are the jeans?|How many buttons show?|What is her expression?|Is her hair curly?,Blazer|Blue|One|Smiling|Straight
+/kaggle/input/sqid-test/images/B0977YQT3K.jpg,What is pictured?|What color is it?|How many USBs?|What are those?|What shape is it?,Device|Blue|Two|Ports|Square
+/kaggle/input/sqid-test/images/B08FQZPC5S.jpg,What is the main object?|What color is the rod?|How many bells?|What shape is the bobber?|What are at the bottom?,Rod|Pink|Two|Round|Hooks
+/kaggle/input/sqid-test/images/B00GK8ULY6.jpg,What tool is numerous?|What color is background?|What is wrench material?|How many tools?|What is the black container?,Sockets|Black|Steel|Many|Case
+/kaggle/input/sqid-test/images/B08LB6YTCF.jpg,How many objects?|What is material?|What color is tool?|What is top?|Where are cutters?,Eight|Metal|Silver|Spring|Below
+/kaggle/input/sqid-test/images/B07F8HSBGN.jpg,What color is structure?|How many sections are there?|What is the cover material?|Where are the plants?|What is contained inside?,Green|Five|Fabric|Ground|Plants
+/kaggle/input/sqid-test/images/B07P5DQ8KN.jpg,What are those?|How many colors?|What shape are beads?|How many beads?|What is the material?,Beads|Seven|Round|Many|Metallic
+/kaggle/input/sqid-test/images/B079STGYC8.jpg,What object is this?|What color is seat?|What is basket made of?|How many wheels?|Where is basket?,Scooter|Black|Plastic|One|Front
+/kaggle/input/sqid-test/images/B07F3NH96Q.jpg,What item is this?|What color is it?|What shape is it?|What color is button?|How many corners dark?,Insecticide|White|Rectangular|Red|Two
+/kaggle/input/sqid-test/images/B072MK2FBP.jpg,What is this?|What color?|What shape?|How many?|What type?,Cover|Black|Round|One|Premium
+/kaggle/input/sqid-test/images/B01CT63964.jpg,What device is pictured?|What color is mandoline?|How many blades shown?|What shape are cucumbers?|What color are cucumbers?,Mandoline|White|Five|Round|Green
+/kaggle/input/sqid-test/images/B0891ZJH3Y.jpg,What color is the disc?|How many pads?|What shape is it?|What color is upper pad?|What is it?,Orange|Two|Round|Black|Pad
+/kaggle/input/sqid-test/images/B07B46NKSB.jpg,What color is the motor?|How many remotes?|What is near the motor?|What orientation is the motor?|What is at the bottom?,White|One|Remote|Vertical|Propeller
+/kaggle/input/sqid-test/images/B08CXHJJFY.jpg,What object is pictured?|What background color?|What is the container?|What color is mask?|How many pieces?,Mask|Blue|Box|White|Fifty
+/kaggle/input/sqid-test/images/B00M66B2DU.jpg,What tool is shown?|What color is bag?|How many batteries?|What is to left?|What color is tool?,Saw|Black|One|Charger|Yellow
+/kaggle/input/sqid-test/images/B01C5A2WJO.jpg,What toy is this?|Color of balls?|How many balls?|Color of net?|Color of pole?,Basketball|Orange|Three|White|Blue
+/kaggle/input/sqid-test/images/B079RGZRMM.jpg,What garment is worn?|What color is sweater?|What color are pants?|What material is garment?|How many people?,Sweater|Brown|Beige|Cotton|One
+/kaggle/input/sqid-test/images/B07QCDB23N.jpg,How many packs?|What material are jars?|What color is foliage?|What flowers are present?|What is backboard shape?,Two|Glass|Green|Lavender|Rectangular
+/kaggle/input/sqid-test/images/B07KQS5VCD.jpg,What food is pictured?|What color is liquid?|What is jug material?|How many pickles?|Is container full?,Pickle|Yellow|Plastic|Three|Full
+/kaggle/input/sqid-test/images/B071XKM52C.jpg,What is the main object?|What color is it?|What shape is it?|What material is attached?|How many loops?,Leash|Gray|Round|Leather|Two
+/kaggle/input/sqid-test/images/B07GCG232L.jpg,Who is pictured?|Dress color?|Fabric type?|How many people?|Dress length?,Woman|White|Lace|One|Long
+/kaggle/input/sqid-test/images/B08FMSC5WZ.jpg,What object is this?|What color is it?|How many colors?|What color light?|What's visible above?,Router|White|Two|Blue|Logo
+/kaggle/input/sqid-test/images/B07DCLLSW9.jpg,How many pieces?|What has knots?|Shirt's color?|Shorts' color?|Material type?,Two|Bowtie|White|Gray|Fabric
+/kaggle/input/sqid-test/images/B005UE6GRC.jpg,What object is shown?|What color is it?|What is the blade made?|Is the knife open?|How many knives?,Knife|Black|Metal|Open|One
+/kaggle/input/sqid-test/images/B08PG22D6Q.jpg,What item are these?|How many shorts?|What is the main color?|What is the pattern?|What's at the top?,Shorts|Five|Gray|Striped|Waistband
+/kaggle/input/sqid-test/images/B004SE9MYO.jpg,What product is this?|What color is the bottle?|What is the pump made of?|How many bottles are visible?|What state is the product?,Lotion|White|Plastic|One|Liquid
+/kaggle/input/sqid-test/images/B07PNP7GTF.jpg,What is main item?|What color is device?|What is dongle's shape?|How many screens?|Are images shown?,Dongle|Black|Rectangle|Five|Displayed
+/kaggle/input/sqid-test/images/B075QRYDFB.jpg,What color is background?|What series is featured?|What color is baseplate?|How many clouds shown?|What are the objects?,Yellow|Classic|Blue|One|Toys
+/kaggle/input/sqid-test/images/B07N9K5LNM.jpg,What objects are shown?|What color is the bag?|How many items total?|What's next to drills?|What color is plastic?,Drills|Teal|Five|Charger|Black
+/kaggle/input/sqid-test/images/B07Y2956FT.jpg,What object holds weapon?|What color is phone?|What material is holster?|How many phones?|What color is holster?,Gun|Red|Cloth|One|Black
+/kaggle/input/sqid-test/images/B095YDVLTV.jpg,What object is held?|What color is dominant?|What holds the object?|How many cameras present?|What is the finish?,Phone|Purple|Hand|Four|Shiny
+/kaggle/input/sqid-test/images/B08QC2WSX7.jpg,What object is this?|What color is it?|What is the material?|How many ends?|What shape is it?,Hose|Blue|Plastic|Two|Curled
+/kaggle/input/sqid-test/images/B00ANI3LAK.jpg,What are those?|Color?|Shape?|How many terminals?|Material?,Speakers|Black|Round|Five|Plastic
+/kaggle/input/sqid-test/images/B07NBRJMSC.jpg,Object is?|Color is?|Lettering color?|How many squares?|What is printed?,Helmet|Yellow|Red|One|Jackson
+/kaggle/input/sqid-test/images/B01CTPRCSQ.jpg,What clothing is worn?|What color are pants?|What color are shoes?|How many people?|What posture person exhibiting?,Jeans|Blue|Tan|None|Standing
+/kaggle/input/sqid-test/images/B0869MGSZ4.jpg,What clothing is shown?|What is the denim's color?|What is the material?|How many belt loops?|What is the jeans' condition?,Jeans|Blue|Cotton|Five|Ripped
+/kaggle/input/sqid-test/images/B00P6TT75E.jpg,What object is this?|What color is it?|What is it made of?|How many are there?|Are laces present?,Boot|Brown|Leather|One|None
+/kaggle/input/sqid-test/images/B07J6T18C8.jpg,What are in the vase?|What color is background?|What is vase material?|How many leaves?|What color is base?,Shells|Green|Glass|Two|Brown
+/kaggle/input/sqid-test/images/B0751N7PJ6.jpg,What are these?|How many spatulas?|What color are they?|What material?|What action are they used for?,Spatulas|Three|Copper|Metal|Stirring
+/kaggle/input/sqid-test/images/B00155UEPA.jpg,What object is it?|What color is it?|What is the filter?|How many switches?|Where is filter?,Appliance|Black|Metal|Two|Underneath
+/kaggle/input/sqid-test/images/B07W5D29K1.jpg,How many bottles?|What color are bottles?|What's next to bottle?|What's in the bottle?|What's the bottles alignment?,Two|Purple|Comb|Shampoo|Vertical
+/kaggle/input/sqid-test/images/B07Y7WZ96C.jpg,What is pictured?|What color is it?|What shape is pad?|How many pads?|What color handle?,Polisher|Blue|Circular|Several|Black
+/kaggle/input/sqid-test/images/B07KG3CQFF.jpg,What object is shown?|What color is the phone?|How many phones are pictured?|What is the case's color?|What logo is visible?,Phone|Pink|Two|Clear|Apple
+/kaggle/input/sqid-test/images/0486400840.jpg,Subject?|How many cowboys?|Horse color?|Word under Cowboys?|Background color?,Cowboys|Three|Brown|Stickers|Yellow
+/kaggle/input/sqid-test/images/B0007VM8UC.jpg,What is the object?|What color is button?|Where was it made?|What is caution?|How many logos?,Spray|Red|USA|Irritant|One
+/kaggle/input/sqid-test/images/B07SF4ZNWT.jpg,What items are shown?|How many colors are there?|What is the color rightmost?|What is material's texture?|How are the towels presented?,Towels|Five|Red|Mesh|Rolled
+/kaggle/input/sqid-test/images/B00P21TEE0.jpg,Who is present?|What is color?|What is she doing?|How many women?|What is texture?,Woman|Brown|Sitting|One|Soft
+/kaggle/input/sqid-test/images/B07VJM5PLF.jpg,What garment is visible?|What color is the shirt?|How many figures appear?|What shape is the patch?|What action they doing?,Shirt|Black|Two|Round|Embracing
+/kaggle/input/sqid-test/images/B07PFQYZ8F.jpg,What is the main object?|What color are they?|What is their shape?|How many are there?|What material are the containers?,Discs|Beige|Round|Twenty|Plastic
+/kaggle/input/sqid-test/images/B01MY9T3R7.jpg,Who is shown?|What color mustache?|How many people?|What color shirt?|What is on head?,Person|Pink|One|Gray|Hair
+/kaggle/input/sqid-test/images/B0027ACP1I.jpg,What is the brand?|What is the background color?|How many sheets?|What material is this?|What is depicted?,Bristol|Yellow|Twenty|Paper|Drawing
+/kaggle/input/sqid-test/images/B072Z2CW3L.jpg,What is the object?|What is color?|How many bottles?|What is lemongrass?|What scent is added?,Spray|Green|Three|Oil|Vanilla
+/kaggle/input/sqid-test/images/B0083GG9TO.jpg,What color is it?|How many objects?|What is it made of?|What shape are they?|What is pictured?,Silver|Many|Metal|Round|Tackle
+/kaggle/input/sqid-test/images/B089644C34.jpg,Subject?|Color?|Brand?|Shapes?|Text?,Wolf|Blue|Orange|Four|None
+/kaggle/input/sqid-test/images/B0792BW2VH.jpg,How many fans?|What color are fans?|What shape are fans?|What are beside fans?|What is attached?,Four|Black|Square|Screws|Wires
+/kaggle/input/sqid-test/images/B0721JP6FK.jpg,What is the main object?|What color is it?|How many slots?|What are beside?|What is the shape?,Charger|Black|Two|Cables|Rectangular
+/kaggle/input/sqid-test/images/B09B36MR7T.jpg,What is the subject?|What is background color?|What is the text?|Who is named?|How many objects?,Woman|Gray|Quote|Amanda|One
+/kaggle/input/sqid-test/images/1736062905.jpg,What color is travel?|What color is secrets?|What shape is earth?|How many balloons?|What is Wedaa?,Black|Blue|Globe|Six|Name
+/kaggle/input/sqid-test/images/B07MVYK3LW.jpg,Who is depicted?|Top's color?|Bottom's pattern?|How many necklaces?|What is worn?,Woman|Green|Leaves|One|Necklace
+/kaggle/input/sqid-test/images/B08TQQYG48.jpg,What clothing is worn?|What color is suit?|What color is necklace?|How many suits?|What is the suit's material?,Swimsuit|Beige|Gold|One|Fabric
+/kaggle/input/sqid-test/images/B07ZG5G9JL.jpg,How many earbuds?|What color is it?|What number appears?|What is this?|What color is stripe?,Two|White|Eightyfive|Case|Black
+/kaggle/input/sqid-test/images/B07FQ74V4Z.jpg,What is the object?|What color is it?|What is the material?|How many arrows?|Where is logo?,Controller|Clear|Plastic|Four|Center
+/kaggle/input/sqid-test/images/B0858B8XZ7.jpg,What is the main object?|What color is the bottle?|What type of bottle?|What is the scent?|How many bottles pictured?,Cleaner|Blue|Spray|Citrus|One
+/kaggle/input/sqid-test/images/B06WVN3YMM.jpg,What color are shelves?|How many drawers exist?|What are these items?|What is material made?|What is the orientation?,Gray|Two|Shelves|Fabric|Vertical
+/kaggle/input/sqid-test/images/B07M6Y6HS2.jpg,What object is shown?|What color are cards?|What number is visible?|How are they arranged?|What shape are they?,Cards|White|Fifty-one|Stack|Rectangular
+/kaggle/input/sqid-test/images/B076Z31HQ5.jpg,What object is it?|What color is band?|What is band's material?|How many buttons?|What shape is sensor?,Watch|Brown|Leather|One|Round
+/kaggle/input/sqid-test/images/B07PMWNYPD.jpg,Who is carrying?|What color is alien?|How many feet?|What color are sleeves?|What is expression?,Alien|Green|Two|Black|Smiling
+/kaggle/input/sqid-test/images/B07FYXNDGN.jpg,How many people?|Suit material?|Jacket color?|What's Pratt's jacket?|Scene location?,Two|Iron|Brown|Leather|Outside
+/kaggle/input/sqid-test/images/B07RSTRD2Z.jpg,What are these?|What color are they?|How many balls?|What is it made of?|What is the ball's shape?,Cups|Red|Four|Plastic|Round
+/kaggle/input/sqid-test/images/B076YFWMR6.jpg,What garment is worn?|What color is dress?|How many necklaces?|What item is worn?|What is material?,Dress|Black|Three|Necklace|Fabric
+/kaggle/input/sqid-test/images/B07V3LDFCR.jpg,What object is pictured?|What color is it?|How many lenses?|Which brand is it?|What material covers?,Binoculars|Green|Two|Vortex|Rubber
+/kaggle/input/sqid-test/images/B0063C5NOW.jpg,What is the main object?|What color is the binder?|What material is inside?|How many binders?|What is the binder doing?,Binder|Black|Paper|Two|Standing
+/kaggle/input/sqid-test/images/B07M5ZFZGV.jpg,What is the main object?|What color is the shoe?|What is the shoe's material?|How many shoes?|What is the shoe's height?,Shoe|Black|Leather|One|High
+/kaggle/input/sqid-test/images/B01M0IEG8N.jpg,What is inside?|What color is label?|How many pieces?|What material is jar?|What flavor is labeled?,Balm|Blue|Sixty|Plastic|Original
+/kaggle/input/sqid-test/images/B00LTK2WCE.jpg,What is the main object?|What color is the label?|How many packs?|What word is visible?|What is in the background?,Pads|Purple|Three|Discreet|Flowers
+/kaggle/input/sqid-test/images/B08JCH7PCV.jpg,What is the main object?|What color is the jacket?|What is the jacket's material?|How many people?|Is zipper closed?,Jacket|Black|Sequin|One|Closed
+/kaggle/input/sqid-test/images/B07GDHQYF3.jpg,What is beside chair?|What color is pot?|What is chair frame?|How many plants?|What is the rug shape?,Plant|Gray|Wood|One|Rectangular
+/kaggle/input/sqid-test/images/B00A35X8ZG.jpg,What is the object?|What color is it?|What is the material?|How many lenses?|What brand is it?,Lens|Black|Metal|One|Sigma
+/kaggle/input/sqid-test/images/B001OTQXES.jpg,What product is it?|What color is it?|How many words are visible?|What kind of product is it for?|What is the first word?,Balm|Blue|Seven|Hair|Moisture
+/kaggle/input/sqid-test/images/B07G7SV3ZP.jpg,What color is background?|How many clamps?|What color are clamps?|What supports backdrop?|What is backdrop made of?,Green|Four|Black|Tripod|Fabric
+/kaggle/input/sqid-test/images/B0043WADB2.jpg,What is the object?|What color is the pump?|What product is it?|What body part?|How many legs?,Lotion|Yellow|Cream|Leg|One
+/kaggle/input/sqid-test/images/B07GTGLTYP.jpg,What color is pillow?|How many bags?|What color is bag?|What is pictured?|What is case?,Gray|One|Black|Pillow|Plastic
+/kaggle/input/sqid-test/images/B01NAOKLJX.jpg,What is the main object?|What color is the shoe?|What is the material?|What shape is the toe?|What closes the shoe?,Shoe|White|Leather|Round|Laces
+/kaggle/input/sqid-test/images/B07TD2CC2T.jpg,What is being worn?|What color are flowers?|How many tiers exist?|What pattern exists?|What footwear appears?,Dress|Red|Two|Floral|Sandals
+/kaggle/input/sqid-test/images/B07ZMLYBD7.jpg,What is the object?|What color are fingers?|What is the primary color?|How many gloves?|What is the material?,Glove|Pink|Black|One|Textured
+/kaggle/input/sqid-test/images/B07RXNHJKG.jpg,What are these?|How many?|What is the cap's color?|What is their material?|Are they few?,Pens|Twelve|White|Plastic|Many
+/kaggle/input/sqid-test/images/B07YQQL4XP.jpg,What item is displayed?|What color are pants?|How many headbands?|What shape is centered?|What is above pants?,Shirt|Green|One|Heart|Top
+/kaggle/input/sqid-test/images/B002CYU3Y0.jpg,What object is this?|What color is bulb?|What is the base?|How many bulbs?|What is the bulb's shape?,Bulb|Clear|Metal|One|Oval
+/kaggle/input/sqid-test/images/B07253G22T.jpg,What is the object?|What color is frame?|How many lenses?|What color are lenses?|What is material?,Glasses|Black|Two|Clear|Plastic
+/kaggle/input/sqid-test/images/B00IOZWC2M.jpg,What item is this?|What color is this?|What shape is it?|Is product vegan?|How many words in title?,Supplement|Black|Cylindrical|Vegan|Two
+/kaggle/input/sqid-test/images/B07NCPH1D3.jpg,What is the object?|What color is it?|What is it made of?|How many buckles?|Is it detached?,Release|Black|Leather|One|Attached
+/kaggle/input/sqid-test/images/B0721CGJMT.jpg,What color are the tracks?|What object is pictured?|How many blue clips?|What is the material?|What track shape?,Orange|Tracks|Twelve|Plastic|Straight
+/kaggle/input/sqid-test/images/B07RN2PMRX.jpg,What is it?|What color?|Patterned?|How many handles?|What material?,Bag|Gray|Striped|Two|Fabric
+/kaggle/input/sqid-test/images/014311526X.jpg,What animals appear?|What background color?|How many elephants?|What says Nudge?|What says York?,Elephants|Yellow|Two|Title|Bestseller
+/kaggle/input/sqid-test/images/B094W1WWNN.jpg,What is the main object?|What color is the doorknob?|How many keys?|What is the bolt's material?|What is beside the lock?,Lock|Black|Two|Brass|Keys
+/kaggle/input/sqid-test/images/B07N3B29V1.jpg,What object is this?|What color is dominant?|What color is spoon?|How many pieces?|What texture is it?,Mug|Pink|Gold|Three|Marble
+/kaggle/input/sqid-test/images/1411498836.jpg,What grade is shown?|What color is 'Curriculum'?|What is the boy using?|What color is the tent?|What pattern are the walls?,Two|Black|Telescope|Green|Striped
+/kaggle/input/sqid-test/images/B076FTC6FQ.jpg,What color is shirt?|How many figures?|What object is?|Is figure smiling?|What kind of figure?,Black|Two|Shirt|Smiling|Stick
+/kaggle/input/sqid-test/images/B07QV6DJCT.jpg,What object is this?|What color is this?|What is it made of?|How many handles?|Is it new?,Bag|Yellow|Leather|Two|Yes
+/kaggle/input/sqid-test/images/1975312856.jpg,What are the animals?|What color is hair?|What is the texture?|What are the kings?|How many crowns?,Wolves|White|Hair|Beasts|One
+/kaggle/input/sqid-test/images/B002KIBR34.jpg,What is the main object?|What color is the pipe?|What shape is the pipe?|How many pipes?|What is the pipe material?,Pipe|White|Cylinder|None|Plastic
+/kaggle/input/sqid-test/images/B015J2EZ0O.jpg,What is concentrated?|What color is 'Flag'?|How many foggers?|Kills by what?|What cockroaches?,Fogger|Black|Six|Contact|German
+/kaggle/input/sqid-test/images/B0756MXTXP.jpg,What is the material?|How many doors?|What is color?|What orientation?|Is door open?,Wood|Two|Brown|Vertical|Closed
+/kaggle/input/sqid-test/images/B01B02PPAQ.jpg,What is the main object?|What color is the label?|What shape is the logo?|Which generation?|How many pack?,Bottle|White|Diamond|Fourth|Two
+/kaggle/input/sqid-test/images/B07D8T3HXZ.jpg,Subject?|Color?|Background?|Quantity?|Costume?,Dog|Black|Grass|One|Moose
+/kaggle/input/sqid-test/images/B0000AUSEW.jpg,What is the main object?|What color is background?|How many people?|What is fork's material?|What is handle's material?,Fork|Green|Four|Silver|Wood
+/kaggle/input/sqid-test/images/B085CMSHKV.jpg,What is pictured?|What color is it?|How many masks?|What style image?|What material is this?,Masks|Black|Five|Cartoon|Fabric
+/kaggle/input/sqid-test/images/B0742KT34J.jpg,What objects are shown?|How many colors exist?|What color is dominant?|What is the shape?|What is the surface?,Papers|Eight|Blue|Rectangular|Flat
+/kaggle/input/sqid-test/images/B073FTGBZY.jpg,What is the tool?|What color is it?|What is it made of?|How many handles?|What is the tool doing?,Chainsaw|Yellow|Plastic|One|Cutting
+/kaggle/input/sqid-test/images/B01B8GQAOO.jpg,What is the main object?|What color is the blanket?|How many pillows?|What color is the frame?|What is the box's shape?,Bed|Yellow|Two|Black|Rectangular
+/kaggle/input/sqid-test/images/B09154G93C.jpg,What is visible?|What color is desk?|How many cups?|What sits upright?|Is the drawer closed?,Laptop|Gray|One|Tablet|Opened
+/kaggle/input/sqid-test/images/B07K6X1CHW.jpg,What is the object?|What is the color?|What shape is it?|How many flashlights?|What is the material?,Flashlight|Black|Cylindrical|One|Metal
+/kaggle/input/sqid-test/images/B01DWJEI62.jpg,What object is this?|What color is it?|What meal is mentioned?|How many mugs?|What shape is handle?,Mug|White|Breakfast|One|Round
+/kaggle/input/sqid-test/images/B079RTMKDT.jpg,What is the main object?|What color is the frame?|What is the shape?|What is the frame made of?|How many beds?,Bed|Brown|Rectangular|Wood|One
+/kaggle/input/sqid-test/images/B07BR3FFX5.jpg,What item is shown?|What color is shirt?|What color is writing?|How many shirts?|What is printed?,Shirt|Gray|White|One|Text
+/kaggle/input/sqid-test/images/B0788H3CWC.jpg,What is pictured?|What color are stripes?|How many boxes?|What shape are tags?|What material are boxes?,Boxes|Gold|Six|Rectangular|Paper
+/kaggle/input/sqid-test/images/B098Q5DLZJ.jpg,What item is this?|What color is bottom?|What is it made of?|What shape is it?|How many latches?,Litterbox|Gray|Plastic|Rectangular|One
+/kaggle/input/sqid-test/images/B07PJZD7KF.jpg,What is the object?|What color is it?|What shape is it?|How many streaks?|What says tattoo?,Eyeliner|Black|Cylindrical|One|Studio
+/kaggle/input/sqid-test/images/B00170F0WU.jpg,What is in hand?|What color is jacket?|How many buttons?|Which way pointing?|What is he doing?,Gun|Beige|Three|Right|Smiling
+/kaggle/input/sqid-test/images/B07QHT4HTL.jpg,What color is panel?|How many screws shown?|What item is pictured?|What shape are connectors?|What is displayed?,Black|Four|Sockets|Cylindrical|Voltage
+/kaggle/input/sqid-test/images/B08GD5R328.jpg,What is this?|What color is surrounding?|What color is handle?|How many legs?|What is covering?,Trampoline|Black|Silver|Four|Fabric
+/kaggle/input/sqid-test/images/B07YQBYZ75.jpg,What is the product?|What color are raspberries?|How many pounds?|Is it organic?|What is the form?,Leaf|Red|Two|Organic|Dried
+/kaggle/input/sqid-test/images/B07KP5PLLL.jpg,How many lights?|What is backdrop?|What color is pillow?|What is the shape?|What is behind pillows?,Five|Wood|Red|Rectangular|Headboard
+/kaggle/input/sqid-test/images/B077JFMTQ7.jpg,What is it?|What color?|What material?|Any laces?|How many?,Slipper|Brown|Leather|None|One
+/kaggle/input/sqid-test/images/B00FXNABZS.jpg,What is the object?|What is the color?|What is the hook?|How many hangers?|Are any clothes?,Hangers|Black|Metal|Many|None
+/kaggle/input/sqid-test/images/B01M663QEL.jpg,What item is present?|What color are curtains?|How many panels exist?|What activity occurs?|Are curtains open?,Curtains|Gray|Two|None|Closed
+/kaggle/input/sqid-test/images/B07PM5MFCQ.jpg,What is the object?|What color is it?|What is it made of?|What is the shape?|How many beds?,Bed|White|Wood|Rectangular|One
+/kaggle/input/sqid-test/images/B07RM3J95N.jpg,What clothing is worn?|What color are pants?|What color are shoes?|How many people?|What action performed?,Pants|Black|White|One|Standing
+/kaggle/input/sqid-test/images/B06WWJKCV1.jpg,What is she wearing?|What is the dress color?|How many braids?|What color is trim?|What is her expression?,Dress|Teal|One|Gold|Smiling
+/kaggle/input/sqid-test/images/B07DQCFLN7.jpg,What is the object?|What is the color?|How many ports?|What's TOSDI?|Where is output?,Converter|Black|Two|Audio|Left
+/kaggle/input/sqid-test/images/B01BLXFI38.jpg,What animal is present?|What color is predominant?|How many dogs?|What is the dog wearing?|What action is shown?,Dog|White|One|Diaper|Smiling
+/kaggle/input/sqid-test/images/B08FCYZ3RQ.jpg,What is pictured?|How many books?|Background color?|Writing color?|How are books?,Books|Four|Black|Gold|Stacked
+/kaggle/input/sqid-test/images/B087682Z7Q.jpg,What is the main object?|What color is the pot?|How many handles?|What shape is it?|What is the knob?,Pot|Blue|Two|Round|Metal
+/kaggle/input/sqid-test/images/B07RK1C7N6.jpg,What objects are present?|What color is one slider?|How many sliders shown?|What is color of center?|What is shown behind?,Sliders|Purple|Two|Black|Box
+/kaggle/input/sqid-test/images/B088Y28Q3Z.jpg,What is attached?|What color is bark?|How many straps?|What is beside?|What is orientation?,Ladder|Gray|Two|Tree|Vertical
+/kaggle/input/sqid-test/images/B0098MDV3O.jpg,What garment?|Shirt color?|How wings?|Cape color?|Lower pattern?,Shirt|Red|Two|Blue|Stars
+/kaggle/input/sqid-test/images/B07HJRH2JG.jpg,What item is this?|What color is dominant?|What is the pattern?|How many feet?|What adorns the fabric?,Onesie|Pink|Striped|One|Ruffles
+/kaggle/input/sqid-test/images/B000G7BCW2.jpg,What clothing is shown?|What color is shirt?|How many buttons?|What's shirt's material?|What's person doing?,Shirt|Black|Three|Cotton|Standing
+/kaggle/input/sqid-test/images/B00UNUHZVE.jpg,What is the main object?|What color is the backpack?|What color is the pocket?|How many zippers?|What texture are the pockets?,Backpack|Blue|Black|Two|Mesh
+/kaggle/input/sqid-test/images/B01MQXR7NX.jpg,Who is it for?|Background color?|Are there flowers?|Where am I?|What is real?,Wife|Red|Floral|Here|Love
+/kaggle/input/sqid-test/images/B0928CJG81.jpg,What is the main object?|What color is the bowl?|How many bowls are visible?|What shape is the bowl?|What is the material?,Bowl|Red|Ten|Round|Silicone
+/kaggle/input/sqid-test/images/1501106295.jpg,"What is the setting?|What is the background color?|How many words in ""One Giant Leap""?|What is the scale of 'Leap'?|What's author's first name?",Moon|Black|Two|Giant|Charles
+/kaggle/input/sqid-test/images/B07JPL5NYX.jpg,What material are they?|What color is it?|How many are there?|What is the surface?|What are the objects?,Paper|White|Six|Flat|Sheets
+/kaggle/input/sqid-test/images/B08L67ZTMJ.jpg,What are those?|What color is topmost?|What is the material?|How many items?|What are they?,Lingerie|Black|Lace|Six|Underwear
+/kaggle/input/sqid-test/images/B07FNXC5HR.jpg,What object is featured?|What color are headlights?|What vehicle is visible?|How many headlights visible?|What color is reflector?,Headlights|Black|Truck|Two|Orange
+/kaggle/input/sqid-test/images/B07T8CSWDS.jpg,What object is this?|What color is background?|What color are stripes?|How many diamonds?|What is the material?,Sweater|Beige|Red|Many|Knit
+/kaggle/input/sqid-test/images/B07RLFG36M.jpg,What object is this?|What color is it?|How many eartips?|What material are tips?|Where is otoscope?,Otoscope|Black|Six|Plastic|Left
+/kaggle/input/sqid-test/images/B00G4RO428.jpg,What instrument featured?|What color is horizon?|How many figures?|What time illustrated?|What product displayed?,Shofar|Orange|One|Sunset|Books
+/kaggle/input/sqid-test/images/B07MP5BS9X.jpg,What material?|How many rings?|What are below?|What color?|What has it?,Brass|Eight|Rings|Gold|Threads
+/kaggle/input/sqid-test/images/B019QR1IW6.jpg,What is the object?|What is color?|What is texture?|What is buckle?|How many buckles?,Belt|Brown|Braided|Silver|One
+/kaggle/input/sqid-test/images/B07FVNYK4T.jpg,What is the main object?|What color is the label?|What is the bottle made of?|How many bottles shown?|What type of cap?,Oil|Yellow|Glass|One|Dropper
+/kaggle/input/sqid-test/images/B07JDM8NQV.jpg,What object is it?|What color is it?|Where is the skull?|How many skulls?|What material is it?,Skull|White|Hand|One|Bone
+/kaggle/input/sqid-test/images/B08S39S6WK.jpg,What is the object?|What color is it?|What shape is it?|What is its texture?|How many LEDs?,Light|Silver|Circular|Shiny|One
+/kaggle/input/sqid-test/images/B06Y3Y86VS.jpg,What fills pool?|What color is frame?|What shape is pool?|How many filters?|What's next to pool?,Water|Gray|Round|One|Ladder
+/kaggle/input/sqid-test/images/B085Y14MTD.jpg,What color is item?|How many outlets?|What is cord's texture?|What is strip's shape?|What's on cord's end?,Black|Five|Braided|Rectangle|Plug
+/kaggle/input/sqid-test/images/1559933313.jpg,What item is pictured?|What color is binding?|What color is Elmo?|How many birds?|What's bird doing?,Book|Blue|Red|One|Flying
+/kaggle/input/sqid-test/images/B07PH2W68W.jpg,What color is some underwear?|How many items shown?|What material is it?|What color are some?|What underwear shown?,Gray|Eight|Fabric|Black|Boxers
+/kaggle/input/sqid-test/images/B00APIN8H4.jpg,What is this?|What color is it?|How many handles?|What material is it?|Is it zipped?,Bag|Black|Two|Fabric|Yes
+/kaggle/input/sqid-test/images/B077G74NYY.jpg,What is the object?|What color is shoe?|What is the texture?|How many shoes?|What type of shoe?,Shoe|Black|Mesh|One|Running
+/kaggle/input/sqid-test/images/B07CSP9T3M.jpg,What item is worn?|What color are pants?|What is material?|How many buttons?|What action happens?,Pants|Navy|Cloth|Two|Standing
+/kaggle/input/sqid-test/images/B096XH7M3T.jpg,How many items?|What color are caps?|What is nailpolish texture?|What is bottles alignment?|What are these objects?,Six|Black|Glitter|Vertical|Bottles
+/kaggle/input/sqid-test/images/B086D8HYCT.jpg,What sport uses this?|What handle color?|What rod color?|How many reels?|What material is reel?,Fishing|Blue|Silver|One|Plastic
+/kaggle/input/sqid-test/images/B0856QGP1C.jpg,What is it?|Color?|Shape?|Material?|How many holes?,Basin|White|Round|Plastic|Six
+/kaggle/input/sqid-test/images/B01N7RS0NG.jpg,What is the main object?|What color is the adapter?|How many connectors shown?|Is the cord coiled?|Does it need a plug?,Adapter|Black|Eight|Coiled|Plug
+/kaggle/input/sqid-test/images/B002OC0BR4.jpg,What is it?|What color?|What material?|How many visors?|What style?,Hat|Black|Fabric|One|Casual
+/kaggle/input/sqid-test/images/B01N7XUSJG.jpg,What is the product?|What color is background?|What is the shape?|What does it list?|How many tea types?,Balm|Yellow|Round|Ingredients|One
+/kaggle/input/sqid-test/images/B07GCCRZ8L.jpg,What is this?|What color is it?|What material is it?|What shape are the eyelets?|How many shoes are there?,Shoe|Blue|Canvas|Round|One
+/kaggle/input/sqid-test/images/B004EYT5HM.jpg,What is the object?|What color is it?|How many hooks?|What is hook's material?|What is the shape?,Lanyard|Black|Two|Metal|Curved
+/kaggle/input/sqid-test/images/B07D2M16JZ.jpg,Object?|Color?|Many?|Surname?|Material?,Tombstone|Gray|Two|Laurange|Granite
+/kaggle/input/sqid-test/images/B00EU90CXW.jpg,Who is pictured?|What is bra's color?|What is the material?|How many straps?|What is she doing?,Woman|Beige|Lace|Two|Smiling
+/kaggle/input/sqid-test/images/B00K5NEORM.jpg,What product is shown?|How many boxes?|What color is bottle?|How many tablets?|What image is featured?,Multivitamin|Two|Brown|Thirty|Fruit
+/kaggle/input/sqid-test/images/B081B6KGMF.jpg,What is the main object?|What color is the device?|What is displayed?|How many buttons?|Where is 'GARMIN'?,Device|Black|Screen|Six|Bottom
+/kaggle/input/sqid-test/images/B0001DRHHK.jpg,What item is shown?|What color is clothing?|How many strings?|What's the brand?|What material is it?,Jacket|Gray|Two|Grundens|Fabric
+/kaggle/input/sqid-test/images/0981924204.jpg,What is pictured?|What is background?|How many puzzlepieces?|Who is author?|What is organizations?,Book|Orange|Four|Evans|Organizations
+/kaggle/input/sqid-test/images/B004N59OFU.jpg,What is the main object?|What is the bottle's color?|What color is the cap?|Up to how many hours?|What is inside?,Bottle|Yellow|Green|Six|Liquid
+/kaggle/input/sqid-test/images/B0858BQ9DK.jpg,What are these objects?|What is main color?|How many batteries?|Are they corded?|What color is bag?,Tools|Yellow|Six|Cordless|Black
+/kaggle/input/sqid-test/images/B08GYNLJQR.jpg,Who is this?|Hat color?|Face color?|How many flowers?|What is he doing?,Joker|Purple|White|One|Holding
+/kaggle/input/sqid-test/images/B01N7T7UZX.jpg,What tool is this?|What handle color?|What material?|How many blades?|What angle blades?,Trowel|Blue|Metal|Two|Angled
+/kaggle/input/sqid-test/images/B07ZX4F5T2.jpg,What are those?|What color is it?|How many microphones?|What is the cable?|What shape is head?,Microphones|Black|Two|Wire|Round
+/kaggle/input/sqid-test/images/B07N9N5Z2N.jpg,What object is pictured?|What color is branch?|What color is border?|How many straps?|Is pad attached?,Rifle|Brown|Black|One|Attached
+/kaggle/input/sqid-test/images/B08FSKDX82.jpg,What item is this?|What color is it?|What design feature present?|How many sleeves?|Are sleeves short?,Blouse|White|Ruffles|Two|Long
+/kaggle/input/sqid-test/images/B07X39RHLK.jpg,What product is featured?|What color is the label?|How many months supply?|What icon has moon?|Who is on packaging?,Supplement|Purple|One|Rest|Woman
+/kaggle/input/sqid-test/images/B08BTP7R6B.jpg,What is the product?|What color is container?|What is inside?|How many containers?|What shape is it?,Dust|Red|Gel|One|Round
+/kaggle/input/sqid-test/images/B07V2XMTYY.jpg,Object shown?|Color shown?|What accompanies?|How many speakers?|Direction facing?,Speaker|Black|Remote|One|Front
+/kaggle/input/sqid-test/images/B081164B5V.jpg,What object is visible?|What color is the holder?|What day is shown?|How many straps?|What texture is back?,Phone|Black|Tuesday|One|Soft
+/kaggle/input/sqid-test/images/B07WH7RX3Z.jpg,What object is shown?|What color is label?|What is the cap material?|How many products?|What acid is mentioned?,Bottle|White|Plastic|Two|Glycolic
+/kaggle/input/sqid-test/images/B01FTFJEQ6.jpg,What is the object?|What color is it?|What is it made of?|How many boots?|What part is covered?,Boot|Brown|Leather|One|Ankle
+/kaggle/input/sqid-test/images/B07TGD77QY.jpg,What object is this?|What color is it?|What is the material?|How many shoes?|What activity is it?,Shoe|Black|Mesh|One|Running
+/kaggle/input/sqid-test/images/B07V7B84TK.jpg,What is the main object?|What color is the bag?|What color are straps?|How many pockets?|What is material?,Duffel|Purple|Gray|Two|Fabric
+/kaggle/input/sqid-test/images/B07SM61FCT.jpg,What color is the massager?|How many massagers?|What color is the band?|What material is it?|What is the brand?,White|One|Gray|Plastic|RENPHO
+/kaggle/input/sqid-test/images/B07Q4QW61K.jpg,What is being held?|What color is the grass?|What holds the grass?|What percent less water?|What is this product?,Grass|Green|Hands|Thirty|Bag
+/kaggle/input/sqid-test/images/B00EUU044S.jpg,What is the main object?|What color is the object?|What are the legs made of?|How many legs are there?|Is the power cord attached?,Shredder|Green|Metal|Three|Attached
+/kaggle/input/sqid-test/images/B07MVZGF7R.jpg,What color is it?|How many buttons?|What is the device?|What is the material?|What is the pattern?,Black|One|Slider|Plastic|Circles
+/kaggle/input/sqid-test/images/B07Z8P3TCL.jpg,What are these?|How many hooks?|What is their color?|What are they made of?|What is their state?,Hooks|Six|Transparent|Plastic|Clean
+/kaggle/input/sqid-test/images/B00U5LK20M.jpg,What is the main object?|What color is the shelf?|How many shelves are there?|What shape is the shelf?|What is the shelf's orientation?,Shelf|Brown|Ten|Rectangle|Upright
+/kaggle/input/sqid-test/images/B0723BNH4K.jpg,What clothing appears?|What color is dominant?|How many colors present?|What is the container?|Which brand is shown?,Jeans|Blue|Five|Pod|Dylon
+/kaggle/input/sqid-test/images/B07NPZ38JC.jpg,What objects are these?|How many waterbottles?|What is it made of?|What color is the liquid?|What shape is the bottle?,Waterbottles|Two|Plastic|Yellow|Round
+/kaggle/input/sqid-test/images/B07L5WXGH7.jpg,What is the main object?|What color is the background?|What is around the box?|What color is the block?|How many clouds appear?,Box|Blue|Clouds|Gold|Several
+/kaggle/input/sqid-test/images/B07BKQFNC9.jpg,What is the object?|What color is it?|What is its shape?|What is it made of?|How many letters?,Necklace|Gold|Round|Metal|One
+/kaggle/input/sqid-test/images/B07PHF3CC3.jpg,What is he wearing?|What color is the shirt?|What is the graphic?|What color are the pants?|How many people?,Shirt|Grey|Compass|Blue|One
+/kaggle/input/sqid-test/images/B07CRZCZPP.jpg,What color are most pieces?|How many parts exist?|What is the material?|What are the objects?|What color is middle part?,Green|Seven|Plastic|Fenders|White
+/kaggle/input/sqid-test/images/B06XS8HSJH.jpg,Who is present?|Shirt color?|Pants color?|How many people?|Are tattoos visible?,Man|Black|Blue|One|None
+/kaggle/input/sqid-test/images/B07SC54XLS.jpg,What is it?|What color?|Material?|How many?|Placement?,Handle|Black|Chrome|One|Inside
+/kaggle/input/sqid-test/images/B07BFDL9ZQ.jpg,What is the main object?|What color is the boot?|What is the strap material?|How many boots?|What is the boot's condition?,Boot|Black|Leather|One|Distressed
+/kaggle/input/sqid-test/images/B08DQLQDBF.jpg,What is the main object?|What color is sky?|What shape is moon?|What are on sky?|How many moons?,House|Blue|Round|Stars|One
+/kaggle/input/sqid-test/images/B01N52J4CU.jpg,What item is shown?|What is jacket's color?|What is it made of?|What covers head?|How many logos?,Jacket|Black|Fabric|Hood|One
+/kaggle/input/sqid-test/images/B08RW9VLYV.jpg,What is in bucket?|What is bucket color?|What is the stopper?|How many bottles?|Bucket material?,Bottle|Silver|Crystal|One|Metal
+/kaggle/input/sqid-test/images/B07F342D96.jpg,What color is shirt?|How many pieces?|What are bottoms?|What color are bottoms?|What is clothing type?,Gray|Two|Shorts|Blue|Pajamas
+/kaggle/input/sqid-test/images/9123984163.jpg,What subject are these?|What background color is Mortality?|How many books shown?|Which word is largest?|What shows on Hitch-22?,Books|Black|Three|Great|Face
+/kaggle/input/sqid-test/images/B01N4Q82L2.jpg,What object is this?|What color is it?|What shape is it?|How many handles?|What is it made of?,Tray|Brown|Rectangle|Two|Wood
+/kaggle/input/sqid-test/images/B07K7HGSF7.jpg,What garment is shown?|What color is it?|What color is the text?|How many hoodies?|What's the last word?,Sweater|Maroon|White|One|Cold
+/kaggle/input/sqid-test/images/B00N32KXQ8.jpg,What food is pictured?|How many bags?|What is the primary color?|What word is prominent?|What calorie item?,Olives|Five|Green|Love|Snack
+/kaggle/input/sqid-test/images/B07PS5533R.jpg,How many objects?|What color is banana?|What shape is ball?|What color is bow?|What object is watermelon?,Many|Yellow|Round|Pink|Fruit
+/kaggle/input/sqid-test/images/B019SNQZ80.jpg,What material is this?|What color is this?|What are these called?|How many pieces?|How are objects arranged?,Wood|Brown|Pieces|Many|Scattered
+/kaggle/input/sqid-test/images/B0000TZYHK.jpg,What tool is this?|What color is it?|What shape is it?|What material is it?|How many drillbits?,Drill|Silver|Cylindrical|Metal|One
+/kaggle/input/sqid-test/images/B077XLCS46.jpg,What item is shown?|What color is it?|How many logos?|What is the material?|Is model wearing it?,Hoodie|Blue|One|Fabric|Wearing
+/kaggle/input/sqid-test/images/B07RKJ9DKH.jpg,What is the object?|What color is it?|What shape is charm?|How many charms?|What is it made of?,Keyring|Silver|Heart|One|Metal
+/kaggle/input/sqid-test/images/B005UKZAJG.jpg,What item is displayed?|What color is bag?|What shape is box?|How many pallets?|Is palette open?,Makeup|Black|Rectangular|Five|Open
+/kaggle/input/sqid-test/images/B07WQPHD3M.jpg,What is pictured?|What background color?|How many words?|Who wrote this?|What type publication?,Book|Blue|Two|Author|Novel
+/kaggle/input/sqid-test/images/B07RXQ6RZ8.jpg,What objects present?|How many caps?|What color one?|What material made?|What shape caps?,Caps|Six|Black|Fabric|Round
+/kaggle/input/sqid-test/images/B078GL2F4C.jpg,What garment is shown?|What color is garment?|How many chains?|What color are pants?|Where are chains?,Sweatshirt|Red|Two|Gray|Neck
+/kaggle/input/sqid-test/images/B07Q2X9H6T.jpg,What is pictured?|How many tiers?|What color is it?|What is it made of?|What shape are tiers?,Stand|Three|Gray|Metal|Round
+/kaggle/input/sqid-test/images/B07MLH9G1G.jpg,What clothing is shown?|What color are they?|How many pockets?|What is the material?|What activity is shown?,Leggings|Black|One|Fabric|Walking
+/kaggle/input/sqid-test/images/B06VWPYPLP.jpg,What is pictured?|What color is it?|What is the material?|How many dots?|What shape is top?,Stool|Purple|Plastic|Many|Square
+/kaggle/input/sqid-test/images/B07CJWW1XZ.jpg,What is the main object?|What color is the backpack?|How many zippers are visible?|What material is the side?|What is on the logo?,Backpack|Blue|Two|Mesh|Mountains
+/kaggle/input/sqid-test/images/B084TNDMW5.jpg,What is the object?|What color is it?|What does it have?|What's the material?|How many wheels?,Shoe|White|Wheels|Leather|Two
+/kaggle/input/sqid-test/images/B00QHECB3M.jpg,Who is pictured?|What color is car?|What material is collar?|How many people?|What is she wearing?,Woman|Red|Fur|One|Gloves
+/kaggle/input/sqid-test/images/B0796Q99F5.jpg,What item is this?|What color is it?|How many speakers?|What shape are speakers?|Are they attached?,Headset|Black|Two|Round|Attached
+/kaggle/input/sqid-test/images/B0851GHRZ9.jpg,What is the main object?|What color is the background?|What is beside rug?|What color is striped border?|What is the floor made of?,Anchor|Blue|Chair|Red|Wood
+/kaggle/input/sqid-test/images/B079X52ZG5.jpg,How many objects?|What color is second?|What are these?|What's leftmost color?|What shape are they?,Six|White|Bars|Green|Rectangular
+/kaggle/input/sqid-test/images/B01M3S7PMV.jpg,What food is shown?|What bag color?|How many grains?|How many packs?|Is bread organic?,Bread|Green|Twentyone|Two|Yes
+/kaggle/input/sqid-test/images/B00818FFF8.jpg,What is the object?|What color is it?|What is it made of?|What shape is it?|How many holes?,Tray|Silver|Metal|Rectangle|Many
+/kaggle/input/sqid-test/images/B08FX35S7K.jpg,What is the object?|What color is it?|How many earcups?|What shape are earcups?|Is microphone visible?,Headphones|Black|Two|Round|Yes
+/kaggle/input/sqid-test/images/B07HYZH6D3.jpg,What is the object?|What color is shoe?|What is the material?|How many logos?|What brand is it?,Shoe|Black|Mesh|Two|Under
+/kaggle/input/sqid-test/images/B07TPLWTMP.jpg,What object is this?|What color is the case?|What is the ring made of?|What logo is present?|How many phones are pictured?,Phone|Black|Metal|Apple|Two
+/kaggle/input/sqid-test/images/B07QZGFCFJ.jpg,What is drawing?|What is pictured?|How many trees?|What is background?|What does drawing have?,Pencil|Buildings|Two|White|Lines
+/kaggle/input/sqid-test/images/B07PK1XWJS.jpg,What is the object?|What color is it?|What is it made of?|How many shelves?|Where are shelves?,Shelf|Silver|Metal|Five|Up
+/kaggle/input/sqid-test/images/B01N12O6EJ.jpg,What garment is shown?|What color is the bra?|What is visible above bra?|How many straps shown?|Any pattern visible?,Bra|Beige|Skin|Two|None
+/kaggle/input/sqid-test/images/B01ILV11Y8.jpg,What is the main object?|What color is the doily?|What shape is the doily?|What is the surface material?|How many 'PC' are indicated?,Doily|Beige|Round|Wood|Six
+/kaggle/input/sqid-test/images/B07FB7V65S.jpg,What is the object?|What color is it?|What orientation?|How many doors?|Handle's color?,Cabinet|Black|Vertical|Two|Silver
+/kaggle/input/sqid-test/images/B07BQWX3KJ.jpg,What clothing is worn?|What color are pants?|What is material?|How many shoes?|What action is occurring?,Pants|Black|Fabric|Two|Walking
+/kaggle/input/sqid-test/images/B08PCQQJJ1.jpg,What are these?|How many?|What is metal's color?|What is nebula's color?|What material are rings?,Stoppers|Two|Silver|Purple|Rubber
+/kaggle/input/sqid-test/images/B07YHRX1TX.jpg,What is the main object?|How many eyes?|What color are treads?|What does robot hold?|What is robot made of?,Robot|Two|Black|Present|Plastic
+/kaggle/input/sqid-test/images/B06XHKKXD8.jpg,What object is pictured?|What color is frame?|What shape is frame?|What is printed?|How many frames?,Frame|White|Rectangular|Canvas|One
+/kaggle/input/sqid-test/images/B078GMM1DK.jpg,What are the objects?|What color are they?|How many objects?|What is the overall shape?|Are they real?,Nails|White|Ten|Ellipse|False
+/kaggle/input/sqid-test/images/B07JG743SQ.jpg,What color is headwear?|How many headwears?|What is she wearing?|What is it made of?|What is around neck?,Gray|One|Headwear|Fabric|Necklace
+/kaggle/input/sqid-test/images/B09579PVJR.jpg,What color is the vanity?|How many drawers?|What is above the shelf?|What is the furniture made of?|Is this image indoors?,Pink|One|Mirror|Wood|Indoor
+/kaggle/input/sqid-test/images/B01M8K1998.jpg,What are these?|How many fish?|What color is one fish?|What are they doing?|What is background?,Fish|Six|Pink|Swimming|Black
+/kaggle/input/sqid-test/images/1886849986.jpg,What is the main object?|What color is background?|Who is Frank?|How many people?|What time is it?,Book|Orange|Author|Two|Sunrise
+/kaggle/input/sqid-test/images/B08PKDKK82.jpg,What is being worn?|What color are they?|What is the texture?|How many legs?|What action occurs?,Leggings|Black|Textured|Two|Walking
+/kaggle/input/sqid-test/images/B07BPP5F65.jpg,What is pictured?|What color are connectors?|What is the material?|How many are there?|What shape are cables?,Cables|Black|Plastic|Two|Curved
+/kaggle/input/sqid-test/images/B07Q1R4SFJ.jpg,What garment is this?|What color is jacket?|What color are pants?|How many pockets?|What style jacket?,Jacket|Gray|Tan|One|Hooded
+/kaggle/input/sqid-test/images/B01NAXH9YX.jpg,What material is it?|How many stacks?|What shape are these?|What color is topmost?|What is the formation?,Paper|Six|Rectangular|Green|Stack
+/kaggle/input/sqid-test/images/B000B3DHH4.jpg,What object is this?|What color is it?|What is it made of?|How many straps?|What is the shoe height?,Shoe|White|Leather|Two|High
+/kaggle/input/sqid-test/images/B07K2VHB4Y.jpg,Who is pictured?|Coat's main color?|What is filling?|How many shoes?|What is subject?,Woman|Black|Down|Two|Standing
+/kaggle/input/sqid-test/images/B07GYLCWG3.jpg,What are the objects?|What color is the pad?|How many logos?|What is the pad's shape?|What secures pad?,Pads|Blue|Two|Rectangular|Straps
+/kaggle/input/sqid-test/images/B00UAD6LK0.jpg,What are they?|What color?|How many diamonds?|What is visible?|What is texture?,Gloves|Red|Four|Arms|Shiny
+/kaggle/input/sqid-test/images/B0037CO2R0.jpg,What is the left material?|What is the right image's color?|What is the right material?|How many images?|What is brick's texture?,Brick|Brown|Wood|Two|Rough
+/kaggle/input/sqid-test/images/B01M742974.jpg,What is the object?|What color is it?|What material is it?|What shape is the bowl?|How many objects?,Mortar|Gray|Marble|Round|One
+/kaggle/input/sqid-test/images/B07D4D13J4.jpg,What is the main object?|What color is the canopy?|How many wheels?|What color are the footrests?|What is the tire's material?,Tricycle|Red|Three|Gray|Rubber
+/kaggle/input/sqid-test/images/B07JZBSS7S.jpg,What is displayed?|Background color?|What surrounds drapes?|How many cups?|Subject depicted?,Curtains|White|Window|Two|Kitchen
+/kaggle/input/sqid-test/images/B098NPNKNF.jpg,What item is central?|What color is gown?|How many butterflies visible?|What material is dress?|What is on right?,Dress|Blue|Seven|Fabric|Gloves
+/kaggle/input/sqid-test/images/B018YW9KO2.jpg,Who is featured?|What color is garment?|How many people?|What straps are worn?|What is her expression?,Woman|White|One|Spaghetti|Smiling
+/kaggle/input/sqid-test/images/B07DWZMSZH.jpg,What is the main object?|What color is the cover?|What is the muffler material?|How many mufflers exist?|What color is the filter?,Engine|Black|Metal|One|Yellow
+/kaggle/input/sqid-test/images/B07HNGG5DW.jpg,How many balms?|What is the background?|What destination?|Type of product?|Butterscotch color?,Three|White|England|Balm|Yellow
+/kaggle/input/sqid-test/images/1936290626.jpg,What color is rope?|What object is knotted?|What color is background?|How many knots?|What is featured?,Red|Knot|White|One|Book
+/kaggle/input/sqid-test/images/B00VSH7LEM.jpg,What item is pictured?|What color is towel?|How many towels?|What is shape?|What function?,Towel|Blue|One|Rectangle|Cooling
+/kaggle/input/sqid-test/images/B00144HS6A.jpg,What is pictured?|What color are these?|How many pouches?|What material?|What is the shape?,Pouches|Beige|Two|Fabric|Rectangular
+/kaggle/input/sqid-test/images/B07DB8JP73.jpg,What product is this?|What color is bottle?|How many refills?|What are refills?|What cleans wood?,Cleaner|Brown|Twenty|Pads|Wood
+/kaggle/input/sqid-test/images/B07QK8VZDY.jpg,What product is advertised?|What is the background color?|How many words in 'tea bags'?|What color is '28'?|What word precedes 'loss'?,Tea|White|Two|Pink|Weight
+/kaggle/input/sqid-test/images/B01N37BECC.jpg,Background color?|Figure color?|How many servings?|Form is?|Product type?,White|Orange|Fivehundred|Extract|Powder
+/kaggle/input/sqid-test/images/B008LMD8S0.jpg,What flows?|What color lettering?|What purifying?|What background?|What product?,Water|Gold|Promises|River|Book
+/kaggle/input/sqid-test/images/B07JYKLR1B.jpg,What color are they?|How many are there?|What is the material?|What orientation are they?|What are the objects?,Black|Two|Metal|Horizontal|Runningboard
+/kaggle/input/sqid-test/images/B07CKN2VN8.jpg,What is the object?|What color is middle band?|What color is the band?|How many rings?|What shape is ring?,Ring|Gold|Silver|One|Round
+/kaggle/input/sqid-test/images/B06ZXRK2Q8.jpg,What object is this?|What color is liquid?|What is container's material?|How many handles?|Is pitcher full?,Pitcher|Orange|Glass|One|Full
+/kaggle/input/sqid-test/images/B074KHR3LZ.jpg,What is the main object?|What color is the band?|What shape is the face?|What is the bezel material?|How many watch?,Watch|White|Round|Metal|One
+/kaggle/input/sqid-test/images/B07Y1T44VX.jpg,What is the main object?|What color is frame?|What is the object's shape?|How many spheres?|What is handle made of?,Clock|White|Round|Two|Metal
+/kaggle/input/sqid-test/images/B07VH5GZ1C.jpg,How many notebooks?|What color is first?|What is the pattern?|What is the binding?|What are these?,Four|Pink|Flowers|Spiral|Notebooks
+/kaggle/input/sqid-test/images/B001VAEV0S.jpg,What object is this?|Lens color?|Frame material?|How many lenses?|What shape are arms?,Sunglasses|Green|Metal|Two|Curved
+/kaggle/input/sqid-test/images/B07DGGQLGD.jpg,What are the products?|How many grits?|What color hair?|What language text?|What material package?,Tools|Four|Blue|Japanese|Plastic
+/kaggle/input/sqid-test/images/B00642NGL8.jpg,What is the object?|Box color?|How many nozzles?|Nozzles material?|Coupler color?,Kit|Blue|Eleven|Metal|Brown
+/kaggle/input/sqid-test/images/B019TUCOF0.jpg,What is the product?|What lid color?|How many foods?|What vegetable visible?|Is product 'USDA'?,Powder|Green|Fifty|Kale|Organic
+/kaggle/input/sqid-test/images/B076PQJNYJ.jpg,What are these?|What color are they?|How many socks?|What type are they?|What is the material?,Socks|Black|Six|Ankle|Fabric
+/kaggle/input/sqid-test/images/B08L57D7TS.jpg,What is main object?|What color is frame?|What is basket material?|How many brakes?|What color is seat?,Tricycle|Green|Wire|Two|Brown
+/kaggle/input/sqid-test/images/B08DHWCTPV.jpg,How many chairs?|Cushion color?|Tabletop material?|Furniture color?|Vase contents?,Four|Red|Glass|Grey|Flowers
+/kaggle/input/sqid-test/images/B07C7VPSSR.jpg,What is the main object?|What color is the pouch?|What is the strap made of?|How many fasteners?|Is the pouch closed?,Pouch|Gray|Leather|Three|Open
+/kaggle/input/sqid-test/images/B08FCG5FVD.jpg,What is the object?|What color is it?|How is the cord?|How many USB ports?|What is the material?,Charger|Black|Coiled|One|Plastic
+/kaggle/input/sqid-test/images/B0170T3T7E.jpg,What is the object?|What color is it?|What color are tracks?|How many tracks?|What is material?,Bulldozer|Yellow|Black|Two|Plastic
+/kaggle/input/sqid-test/images/B01MXDGU32.jpg,What are these?|What color are they?|What is the rod?|How many panels?|What is the table?,Curtains|Gray|Metal|Two|Glass
+/kaggle/input/sqid-test/images/B06XGHS21H.jpg,What is this?|What is primary color?|What color is cape?|How many belts?|What is material?,Superhero|Blue|Red|One|Fabric
+/kaggle/input/sqid-test/images/B072FQ2N3P.jpg,What object is this?|What color is it?|What is it made of?|How many eyelets?|What shape is toe?,Shoe|Black|Leather|Ten|Round
+/kaggle/input/sqid-test/images/B00D7A2O6I.jpg,How many hats?|What color is brim?|What is background?|What is pattern?|What item type?,One|Brown|White|Dogs|Clothes
+/kaggle/input/sqid-test/images/1250023270.jpg,What objects fly?|What is the background?|How many words in author's name?|What word after 'Home'?|What kind of book?,Helicopters|Blue|Two|Front|Novel
+/kaggle/input/sqid-test/images/B07C6V7MC2.jpg,What is depicted?|What color is shoe?|How many stripes?|What are those?|What is brand?,Shoe|Green|Three|Stripes|Adidas
+/kaggle/input/sqid-test/images/B077K97WHF.jpg,What are these?|What color are they?|How many lenses?|Are the lenses solid?|What shape is this?,Sunglasses|Black|Two|Solid|Rounded
+/kaggle/input/sqid-test/images/B07GWH4V48.jpg,Object?|Color?|Shape?|Material?|How many?,Tumbler|Pink|Round|Metal|One
+/kaggle/input/sqid-test/images/B08265D7LF.jpg,How many items?|What color are they?|What shape is lid?|What is material?|Where are objects?,Two|White|Circular|Porcelain|Countertop
+/kaggle/input/sqid-test/images/B07K6KZLF7.jpg,What object is featured?|What is the quilt's color?|How many drawers present?|What is headboard's shape?|What material is comforter?,Bed|Blue|Two|Rectangular|Fabric
+/kaggle/input/sqid-test/images/B006G7IT40.jpg,What product is shown?|What color is package?|What is the SPF?|What is it advertised as?|What brand is this?,Lipstick|Pink|Fifteen|Conditioner|Softlips
+/kaggle/input/sqid-test/images/B07H43SHHR.jpg,What is this?|What color?|Material?|What brand?|Quantity?,Cooler|Tan|Mesh|Titan|One
+/kaggle/input/sqid-test/images/B00TZ7GZ7Q.jpg,What is it?|Color?|Brand?|How many lights?|Visible antennas?,Router|Black|ASUS|Five|None
+/kaggle/input/sqid-test/images/B07G4Y7SYF.jpg,What are the objects?|What color are they?|How many vases?|What is the texture?|What is the shape?,Vases|Silver|Two|Hammered|Oval
+/kaggle/input/sqid-test/images/B07H5L7HKS.jpg,What is she wearing?|What color is dress?|What is around neck?|How many people?|What is she doing?,Dress|Black|Necklace|One|Standing
+/kaggle/input/sqid-test/images/1674844468.jpg,What food is featured?|What color is 'AIR'?|What color are meatballs?|How many hundreds?|What's glazed item?,Chicken|Green|Brown|Six|Donut
+/kaggle/input/sqid-test/images/B087CJPFS9.jpg,What are the objects?|What color are the urns?|How many urns?|What is the pattern?|What is the container?,Urns|White|Four|Floral|Box
+/kaggle/input/sqid-test/images/B08NPKT21P.jpg,What is the main object?|What color is the writing?|How many masks shown?|What color is mask?|What is behind mask?,Mask|Purple|Two|White|Box
+/kaggle/input/sqid-test/images/B07LBSFRNZ.jpg,What object is inside?|How many total containers?|What color is dominant?|Where was it made?|What is lid material?,Putty|Twelve|Green|China|Plastic
+/kaggle/input/sqid-test/images/B00U4621CA.jpg,What product is this?|What color is container?|What color are berries?|How many servings?|What liquid is present?,Supplement|Yellow|Blue|Sixty|Water
+/kaggle/input/sqid-test/images/B071WT4KLM.jpg,What is the main object?|What color is the gauntlet?|How many stones visible?|What shape are stones?|What is the texture?,Gauntlet|Gold|Six|Rounded|Shiny
+/kaggle/input/sqid-test/images/B08QG2LBCG.jpg,What item are these?|How many containers?|What color are tops?|What is the brand?|What is the scent?,Aerosols|Three|Green|Unstopables|Paradise
+/kaggle/input/sqid-test/images/B07T45JR55.jpg,What are these?|How many spoons?|What is it?|What color are they?|What color is leveler?,Spoons|Eight|Metal|Silver|Yellow
+/kaggle/input/sqid-test/images/B01HZFWST8.jpg,What is the object?|What color is it?|How many objects?|What is material?|Where is it?,Printer|White|Two|Plastic|Indoor
+/kaggle/input/sqid-test/images/B00V4TO660.jpg,What is the object?|What color is it?|How many ports?|What is the shape?|Color of pins?,Adapter|Beige|Three|Rectangular|Gold
+/kaggle/input/sqid-test/images/B07X5R5K6L.jpg,What color is background?|What is the logo?|What color is text?|How many words below?|What shape is atom?,Green|Atom|White|Two|Circle
+/kaggle/input/sqid-test/images/B07Q7RX8R9.jpg,How many objects?|What color are they?|What is the material?|Any shadow?|Orientation?,Twentyfour|White|Plastic|None|Vertical
+/kaggle/input/sqid-test/images/B01MQ10YKN.jpg,What is inside?|Cap color?|Container material?|How many bottles?|Is unscented?,Water|Blue|Plastic|One|Yes
+/kaggle/input/sqid-test/images/B00RIT50F6.jpg,What objects are displayed?|How many pens exist?|What color is leftmost pen?|What kind of pen is it?|What is the box made of?,Pens|Four|Green|Stylus|Paper
+/kaggle/input/sqid-test/images/B07H78FQ6R.jpg,What is pictured?|What is atop?|How many filters?|What is background?|What are inside?,Box|Green|Six|White|Filters
+/kaggle/input/sqid-test/images/B00DKYN3IO.jpg,What object is shown?|What color is it?|How many lights?|What indicates active?|Where was it made?,Relay|Yellow|Three|Power|Germany
+/kaggle/input/sqid-test/images/B01HSFXCJU.jpg,What is this?|Box's color?|Handles color?|How many boxes?|Coater material?,Coater|Brown|Green|One|Aluminum
+/kaggle/input/sqid-test/images/B07MBMGGDN.jpg,What controls lights?|What color is packaging?|What are clips on?|What is product in?|What is glowing?,Remote|Black|String|Box|Lights
+/kaggle/input/sqid-test/images/B01DU4W9TW.jpg,What color is headgear?|How many items?|Which brand?|What material is case?|Where is headgear?,Black|Two|Caulicure|Plastic|Top
+/kaggle/input/sqid-test/images/B09BCHRC5X.jpg,What color is the top garland?|What color is the middle wreath?|What color is the bottom left circle?|What is the shape of the decorations?|How many wreaths are there?,Red|Green|Gold|Stars|Three
+/kaggle/input/sqid-test/images/B01N9JK1ZP.jpg,What is worn?|What color?|How many shoes?|Any pattern?|Material type?,Pants|Gray|Two|None|Fabric
+/kaggle/input/sqid-test/images/B08R5KYDRT.jpg,What is pictured?|How many bottles?|What color is 'Classic'?|What do the bottles contain?|What are bottles made of?,Bottles|Three|Red|Liquid|Glass
+/kaggle/input/sqid-test/images/B07XD6F2XD.jpg,What is the object?|What color is it?|How many wheels?|What color are tires?|What is material?,Vehicle|Purple|Four|Black|Plastic
+/kaggle/input/sqid-test/images/B01M7VGIFW.jpg,What product is this?|What color is background?|What color is the letter?|How many caplets?|What symptom does it treat?,Medication|Yellow|Purple|Twenty|Pain
+/kaggle/input/sqid-test/images/B01ID3YFVK.jpg,What is the object?|What color is it?|What shape is it?|What is the material?|How many holes?,Wheel|Black|Round|Metal|Many
+/kaggle/input/sqid-test/images/B088ZXSLK1.jpg,What is the main object?|What color is the hair?|How many hair extensions?|What is the hair length?|What is the hair style?,Hair|Blonde|Two|Long|Wavy
+/kaggle/input/sqid-test/images/B07D6GM758.jpg,What is inside?|What is background?|How many bombs?|What is shape?|What is ribbon?,Bombs|Blue|Seven|Round|Bow
+/kaggle/input/sqid-test/images/B093XKVJZ5.jpg,How many people?|What sky color?|Where is couple?|What action?|What is wavy?,Two|Blue|Beach|Embracing|Hair
+/kaggle/input/sqid-test/images/B0178HW1EK.jpg,What is the object?|What color is it?|What shape is it?|Are contents visible?|How many objects?,Pouch|Pink|Rectangular|None|One
+/kaggle/input/sqid-test/images/B00CUKYAXQ.jpg,What product is it?|What color is background?|What food is pictured?|How many pounds?|What tool is pictured?,Baking|Orange|Cookies|One|Hammer
+/kaggle/input/sqid-test/images/B07CZ6M6N4.jpg,What is the object?|What color is top?|What color is base?|How many legs?|What shape is top?,Lamp|Gold|Black|Three|Curved
+/kaggle/input/sqid-test/images/B076SC1PRG.jpg,What is this?|What color is it?|What is the pattern?|How many pillows?|What is the texture?,Pillow|White|Striped|One|Soft
+/kaggle/input/sqid-test/images/B07F3X9Y98.jpg,What objects are shown?|How many bulbs?|What color is base?|What is bulb shape?|What controls bulbs?,Bulbs|Four|White|Circular|Remote
+/kaggle/input/sqid-test/images/B077KCNZTV.jpg,What animal is featured?|What color is background?|How many pencils?|What are inside?|What swims?,Turtle|Blue|Three|Pencils|Fish
+/kaggle/input/sqid-test/images/B074D3VLBT.jpg,What garment is featured?|What color are shorts?|How many persons visible?|What is fabric material?|Where are the shorts?,Shorts|Gray|One|Cloth|Knees
+/kaggle/input/sqid-test/images/B07G9W97GS.jpg,Who is featured?|What color is jacket?|What color is the chair?|How many necklaces?|How is the hair?,Woman|Black|White|One|Short
+/kaggle/input/sqid-test/images/B07D6BPMR3.jpg,What word follows 'House'?|What color are the stalks?|How many stalks appear?|What is the background?|Direction does text go?,Blessing|White|Five|Wood|Up
+/kaggle/input/sqid-test/images/B001OY6FRS.jpg,What is he wearing?|What color is shoe?|What is the platform made of?|How many shoes?|Where is foot?,Shoe|Blue|Wood|One|Up
+/kaggle/input/sqid-test/images/B07Y9XGWZ5.jpg,What is the main object?|What color is the cork?|What shape is the stone?|What is the ring made of?|How many bands?,Ring|Brown|Oval|Metal|Two
+/kaggle/input/sqid-test/images/B07SZCG8R2.jpg,What object is visible?|What color is case?|How many tablets?|What text is visible?|Which day is shown?,Tablet|Black|One|Start|Saturday
+/kaggle/input/sqid-test/images/B01GUHHQOO.jpg,What is inside?|What color is background?|How many sticks?|What is packaging?|What size sticks?,Glue|Blue|Forty|Plastic|Mini
+/kaggle/input/sqid-test/images/B0002SQYTG.jpg,What object is this?|What color is it?|What is the shape?|How many clips?|What orientation is it?,Gauge|Silver|Cylindrical|One|Horizontal
+/kaggle/input/sqid-test/images/B00GJBHXHM.jpg,What is he wearing?|What color is shirt?|What color are pants?|How many hands?|What is he doing?,Shirt|Gray|Tan|Two|Smiling
+/kaggle/input/sqid-test/images/B07LFLCW6N.jpg,What product type?|What color is background?|How many bottles?|What brand is this?|What color are caps?,Filter|White|Two|Kenmore|Purple
+/kaggle/input/sqid-test/images/B00J48UK86.jpg,Who is wearing?|What color robe?|Color of cross?|How many people?|Shape of hat?,Pope|Red|Gold|One|Tall
+/kaggle/input/sqid-test/images/1640210237.jpg,What style depicted?|Cape color?|How many characters?|What color is seal?|Author surname?,Anime|Purple|Three|Gold|Hart
+/kaggle/input/sqid-test/images/B07DNZB1HF.jpg,What clothing is she wearing?|What color is the dress?|How many belts?|Where does the dress reach?|What material is dress?,Dress|Black|One|Knees|Fabric
+/kaggle/input/sqid-test/images/B082QVSXQM.jpg,What object is shown?|What color are mountains?|How many legs?|What color is frame?|What is background?,Television|Green|Two|Black|Mountains
+/kaggle/input/sqid-test/images/B07H1G28PX.jpg,How many people?|Background color?|What shows?|What's visible?|What's happening?,Three|Black|Skin|Text|Embracing
+/kaggle/input/sqid-test/images/B07MKJQCXP.jpg,What tool is pictured?|What color are bristles?|How many brush heads?|What shape are brushes?|What is the texture?,Drill|Yellow|Four|Round|Bristled
+/kaggle/input/sqid-test/images/B07L9YT743.jpg,What is this?|What color is it?|What is tabletop?|What shape is tabletop?|How many bars?,Table|Gold|Glass|Round|Many
+/kaggle/input/sqid-test/images/B009ZSKNEG.jpg,What is the object?|What color is it?|What shape is it?|Any markings?|Orientation?,Tube|Black|Cylindrical|None|Horizontal
+/kaggle/input/sqid-test/images/B086D7SX8K.jpg,What are these?|What color is prominent?|How many cleaning brushes?|What is the handle material?|What color is the long brush?,Brushes|Blue|Three|Plastic|White
+/kaggle/input/sqid-test/images/B00YHEWKJ4.jpg,What clothing?|What color?|How pieces?|What pattern?|What material?,Pajamas|Pink|Two|Striped|Cotton
+/kaggle/input/sqid-test/images/B01HONVHZ2.jpg,What object is this?|What color is background?|What shape is clock?|What word is visible?|What hour is it?,Clock|White|Round|Quartz|Two
+/kaggle/input/sqid-test/images/B07JR8TFNB.jpg,What tool is this?|What color is it?|What color is handle?|How many drivers?|What is the material?,Driver|Red|Black|One|Metal
+/kaggle/input/sqid-test/images/B07VVP8J7Z.jpg,What are the objects?|What color are they?|What is their shape?|How many beads?|What decorates them?,Beads|Gold|Round|Many|Letters
+/kaggle/input/sqid-test/images/B01LQ2PZDW.jpg,What liquid is inside?|What color is liquid?|What is bottom material?|What is bottom shape?|How many bands shown?,Coffee|Brown|Glass|Round|One
+/kaggle/input/sqid-test/images/B082NQRYGB.jpg,What is depicted?|What color is prominent?|What color is trimming?|What is the composition?|How many painting?,Painting|Green|Gold|Flowing|One
+/kaggle/input/sqid-test/images/B016L356XK.jpg,What object is shown?|What color is shirt?|How many shirts?|Who is on shirt?|What type product?,Shirt|Gray|One|Spartan|Apparel
+/kaggle/input/sqid-test/images/B00LUA11F2.jpg,What is inside?|What is bottle's color?|What are the background?|How many bottles?|What is on top?,Serum|Blue|Leaves|Two|Pump
+/kaggle/input/sqid-test/images/B087C721YC.jpg,What is the main object?|What color is the frame?|What color is the handle?|What is the shape of the head?|How many rackets?,Racket|Blue|White|Oval|One
+/kaggle/input/sqid-test/images/B0057D8020.jpg,What object is shown?|What color is support?|How many hands?|What body part?|What is size?,Support|White|One|Torso|Large
+/kaggle/input/sqid-test/images/0723247730.jpg,What is the main object?|What color is the hat?|What is the frame's shape?|What is the rabbit doing?|What is on the rabbit's head?,Rabbit|Green|Oval|Reading|Hat
+/kaggle/input/sqid-test/images/B06Y4L2YW6.jpg,What clothing are they?|What color are pants?|What is material?|How many shoes?|What color shoes?,Jeans|Blue|Fabric|Two|Brown
+/kaggle/input/sqid-test/images/B074QQ5S65.jpg,What is the object?|What color is it?|How many colors?|What sleeve color?|What is it made of?,Jacket|White|Two|Red|Leather
+/kaggle/input/sqid-test/images/B07XPLN9K9.jpg,What color is the product?|How many items?|What is the tube's color?|Is it professional?|What shape is it?,Brown|Two|Black|Yes|Cylindrical
+/kaggle/input/sqid-test/images/B07VKY17DN.jpg,What object is featured?|How many cars appear?|What color is foremost?|What is track made of?|What are cars doing?,Cars|Two|Black|Plastic|Driving
+/kaggle/input/sqid-test/images/B00XVB9G4Q.jpg,Who is Alex?|Background color?|How many words titled?|Image depicts what?|Wolves word color?,Author|Blue|Three|Novel|Silver
+/kaggle/input/sqid-test/images/B07641HKH8.jpg,What is the main object?|What is the ring's color?|What is the stone's shape?|How many stones?|What is the ring's texture?,Ring|Silver|Round|One|Shiny
+/kaggle/input/sqid-test/images/B07BM1X7G5.jpg,What object is this?|What color is it?|What shape is it?|What is attached?|What texture is visible?,Container|Gold|Round|Carabiner|Carbon
+/kaggle/input/sqid-test/images/B0082303OK.jpg,What food is inside?|What is the lid color?|What is it made of?|How many words is 'Bada Bing'?|What is the taste?,Cherries|Blue|Glass|Two|Delicious
+/kaggle/input/sqid-test/images/B07CPW4BXH.jpg,What is the main object?|What color are pillows?|What is the bedframe made of?|How many pillows?|What color is the blanket?,Mattress|White|Wood|Two|Yellow
+/kaggle/input/sqid-test/images/B00JES3MXQ.jpg,What object is pictured?|What color are bottoms?|How many flashdrives?|What color is metal?|How many objects total?,Flashdrives|Blue|Ten|Silver|Ten
+/kaggle/input/sqid-test/images/B07FNQDDQQ.jpg,What is the main object?|What color is it?|What shape is pendant?|How many spikes?|What is it made of?,Necklace|Silver|Rectangle|Many|Metal
+/kaggle/input/sqid-test/images/B098TZMNXK.jpg,What is the central object?|What color is the headset?|How many games shown?|What is below right?|What is on left?,Headset|Black|Three|Controller|Games
+/kaggle/input/sqid-test/images/B07V2QPFN6.jpg,What is the object?|What color is it?|How many points?|What other shapes?|What is printed?,Boomerang|Blue|Three|Stars|Text
+/kaggle/input/sqid-test/images/B0953HG1J4.jpg,What fruit fills one container?|What color are the cucumber containers?|What is the orange food?|How many containers exist?|What are the plastic squares?,Apples|Green|Salmon|Fourteen|Lids
+/kaggle/input/sqid-test/images/B00J6GUFI6.jpg,What animal is visible?|What color is water?|Where are they?|How many dogs?|What color is umbrella?,Dog|Blue|Beach|One|Red
+/kaggle/input/sqid-test/images/B01MT39962.jpg,What is the main object?|What color is the printer?|What's near cards?|How many cards stacks?|What color is the ribbon?,Printer|White|Webcam|Three|Blue
+/kaggle/input/sqid-test/images/B071ZBRNCJ.jpg,What tool is this?|What color is it?|What is the material?|How many batteries?|Is stapler cordless?,Stapler|Yellow|Metal|One|Cordless
+/kaggle/input/sqid-test/images/1482313294.jpg,What item is pictured?|What color are the letters?|What material is scattered?|Who wrote this?|How many tiles spell father?,Book|Brown|Tiles|Author|Six
+/kaggle/input/sqid-test/images/B09BN7XFDG.jpg,What is the main object?|What is the dominant color?|What is under the trees?|How many trees?|What is the direction?,Bamboo|Green|Path|Many|Upward
+/kaggle/input/sqid-test/images/1611802660.jpg,What is embroidered?|What color is grass?|How many bees?|What insect flies?|What's above flowers?,Flowers|Green|One|Bee|Title
+/kaggle/input/sqid-test/images/B07Y5VF1Y7.jpg,What product is this?|What color is label?|What shape is product?|What color is cap?|How many products?,Serum|White|Cylindrical|Black|One
+/kaggle/input/sqid-test/images/B07W4K26G8.jpg,What object is this?|What color is it?|What is the texture?|How many rings?|What is it made of?,Ring|Gold|Shiny|One|Metal
+/kaggle/input/sqid-test/images/B0118CYF2W.jpg,What object is this?|What color are frames?|What is the pattern?|How many lenses?|How are frames polished?,Sunglasses|Black|Circles|Two|Hand
+/kaggle/input/sqid-test/images/B08FSJPKKR.jpg,What color is the level?|How many hooks present?|What are the silver objects?|What is the white item?|What color is the bow?,Yellow|Six|Hooks|Box|Red
+/kaggle/input/sqid-test/images/B07PGQDBWG.jpg,What item is this?|What color is the bottle?|What color is the nozzle?|How many bottles?|What is cap's material?,Spray|Pink|Black|One|Transparent
+/kaggle/input/sqid-test/images/B071FKXHTR.jpg,What is the object?|What color is it?|What is the plug's shape?|How many lights?|What is connected?,Adapter|Black|Round|One|Cord
+/kaggle/input/sqid-test/images/B07P6MZPK3.jpg,What game is featured?|What background color?|How many sides?|What objects present?|What material container?,Uno|Red|Four|Cards|Tin
+/kaggle/input/sqid-test/images/B0756Z4S9X.jpg,What object is shown?|What color is it?|What is the material?|How many holes?|What shape is it?,Bracket|Black|Metal|Three|Curved
+/kaggle/input/sqid-test/images/B07BMY7FJX.jpg,What is she wearing?|What color is the hat?|What is the hat's texture?|What is her hair color?|How many hats?,Hat|Beige|Woven|Blonde|One
+/kaggle/input/sqid-test/images/B07KFNH34V.jpg,What is the object?|What color is it?|What is the shape?|What is it made of?|How many chains?,Necklace|Rose|Round|Metal|One
+/kaggle/input/sqid-test/images/B099R9562R.jpg,What color is dominant?|How many characters exist?|What are the pastries?|What is inflating?|How many forks present?,Pink|Many|Cupcakes|Balloons|Eleven
+/kaggle/input/sqid-test/images/B07CZT4M2Y.jpg,What is the main object?|What color is the stroller?|What is the material?|How many seats?|Where is the carseat?,Stroller|Black|Plastic|Two|Inside
+/kaggle/input/sqid-test/images/B07JYRV59V.jpg,What is pictured?|What is background color?|How many cacti?|What activity is indicated?|What type of mix?,Cactus|Orange|Three|Gardening|Organic
+/kaggle/input/sqid-test/images/B0799734SJ.jpg,What is the main object?|What color is the box?|How many pieces?|What label appears?|What color is ship?,Boat|Blue|Sixteen|Warning|Brown
+/kaggle/input/sqid-test/images/B07T4H9R94.jpg,What food is present?|What is the color?|What display is shown?|How many handles?|What is the grabber?,Fries|White|Digital|One|Handle
+/kaggle/input/sqid-test/images/1524854530.jpg,What type of deck?|What is trim color?|How many shields?|What is the sock pattern?|What is the object?,Oracle|Gold|One|Striped|Box
+/kaggle/input/sqid-test/images/B0756GB78C.jpg,What object is pictured?|What color are they?|What is earcup texture?|How many headphones?|What brand are these?,Headphones|Silver|Cushioned|One|Bose
+/kaggle/input/sqid-test/images/0764285548.jpg,What is the vehicle?|Who is pictured?|What is the text color?|How many people?|What are they sitting?,Locomotive|Woman|Gold|Two|Books
+/kaggle/input/sqid-test/images/B09BCPNC42.jpg,What clothing is worn?|What color is sweater?|How many pockets are?|What color are strings?|What style is it?,Sweater|Green|Two|White|Casual
+/kaggle/input/sqid-test/images/B07S1RR3FR.jpg,What color is it?|What is it?|How many pens?|What shape is it?|What material is it?,Black|Tablet|One|Rectangle|Plastic
+/kaggle/input/sqid-test/images/1942645686.jpg,What shows passing?|What is the main color?|What is the star's shape?|What is falling?|What type of document?,Hourglass|Red|Hexagon|Papers|Book
+/kaggle/input/sqid-test/images/B07NL98CF6.jpg,What is the object?|What color is it?|What is the texture?|How many objects?|What state is it?,Mineral|Green|Rough|One|Solid
+/kaggle/input/sqid-test/images/B00BLUX60Y.jpg,What is the main object?|What color is the chain?|What shape are the stones?|How many strands exist?|What is the texture?,Necklace|Gold|Round|Two|Shiny
+/kaggle/input/sqid-test/images/B07RZCB7FH.jpg,What object is this?|What color is it?|What is the gem?|How many stones?|What is the band?,Ring|Silver|Diamond|One|Metal
+/kaggle/input/sqid-test/images/B0758F8KDC.jpg,What object is shown?|What color is bottle?|How many bottles?|What color are caps?|What fills bottles?,Mouthwash|Blue|Two|Orange|Liquid
+/kaggle/input/sqid-test/images/B08B3JT8GC.jpg,What is the object?|How many rings?|What is the shape?|What is the material?|What color are they?,Hoops|Three|Round|Wood|Beige
+/kaggle/input/sqid-test/images/B088NMTFSV.jpg,What structure dominates?|What color is fabric?|What shape is gazebo?|How many chairs?|Are curtains drawn?,Gazebo|Beige|Rectangular|Six|Draped
+/kaggle/input/sqid-test/images/B00IKHH332.jpg,What garment?|Color?|Upper-color?|How many straps?|What brand?,Overalls|Orange|Black|Two|Grundens
+/kaggle/input/sqid-test/images/B00HZTTA5A.jpg,What object is this?|What color is it?|How many blades?|What texture are blades?|Where is it mounted?,Fan|Brown|Five|Woven|Ceiling
+/kaggle/input/sqid-test/images/B07XLNR41P.jpg,What is being sold?|What color is LaserJet?|How many cartridges?|What color is noire?|What is this object?,Toner|Blue|Two|Black|Cartridge
+/kaggle/input/sqid-test/images/B0746CNP83.jpg,How many rings?|What material?|What shape?|Are parts connected?|What color?,Three|Metal|Circles|Attached|Silver
+/kaggle/input/sqid-test/images/B01HCI03O0.jpg,What are the skewers?|What color are they?|How many skewers?|What shape are they?|Are they knotted?,Bamboo|Green|Many|Sticks|Knotted
+/kaggle/input/sqid-test/images/B07JNN4MVZ.jpg,What are these?|What hue prevails?|How many are there?|What's the material?|What are they doing?,Tassels|Pink|Eleven|Foil|Hanging
+/kaggle/input/sqid-test/images/B018N8178Y.jpg,What is this?|Engine color?|Handle color?|How many handles?|Location?,Trimmer|Orange|Black|One|Outside
+/kaggle/input/sqid-test/images/B082ZV6QGR.jpg,What garment is this?|What color is it?|How many figures?|Stripes color?|Material?,Onesie|Blue|Four|White|Cotton
+/kaggle/input/sqid-test/images/B00LBHEP3O.jpg,What object is shown?|How many bottles?|What color is cucumber?|What is the material?|What does each bottle have?,Sprays|Three|Green|Plastic|Labels
+/kaggle/input/sqid-test/images/B0822KFX6P.jpg,What object are these?|What is the syringe color?|How many syringes?|What color are caps?|Material of syringes?,Syringes|Blue|Six|Orange|Glass
+/kaggle/input/sqid-test/images/B0895D4K8L.jpg,What is the object?|What color are earphones?|What is the material?|How many earphones?|What color are bands?,Earphones|White|Plastic|Two|Gold
+/kaggle/input/sqid-test/images/B01J6FPS42.jpg,What is the brand?|What color is it?|What is the shape?|How many logos?|Are cracks present?,Tile|White|Square|One|None
+/kaggle/input/sqid-test/images/B07G2PK4PH.jpg,What object is featured?|What is the jacket's color?|What shape is visible?|What shape is repeated?|How many actors?,Movie|Brown|Stars|Stars|One
+/kaggle/input/sqid-test/images/B07RBPV8Q4.jpg,What is the object?|What color is it?|What is it made of?|How many suction cups?|What type is it?,Thermometer|Black|Plastic|Zero|Digital
+/kaggle/input/sqid-test/images/B07Z49X1M5.jpg,What is it?|What color?|What material?|How many ties?|What shape is pompom?,Hat|Purple|Knit|Two|Round
+/kaggle/input/sqid-test/images/B001E6C3AE.jpg,What are these?|What color is the box?|What color are tags?|How many boxes?|What is the tag's arrangement?,Tags|Yellow|White|One|Pile
+/kaggle/input/sqid-test/images/B07VWRSB7X.jpg,What toys are shown?|What color is the truck?|How many models?|What contains models?|What are assembled toys?,Tanks|Red|Sixteen|Boxes|Vehicles
+/kaggle/input/sqid-test/images/B0915MGJK4.jpg,What object is this?|What color is it?|What shines brightly?|What is the pole?|How many poles?,Umbrella|Beige|Lights|Metal|One
+/kaggle/input/sqid-test/images/B0084TX99I.jpg,What is the object?|What color is it?|What is the material?|How many socks?|Where is sock's top?,Sock|Black|Fabric|One|Ankle
+/kaggle/input/sqid-test/images/B07SHJR3QY.jpg,How many boxes?|What shape are boxes?|What material are they?|What color are boxes?|What is their purpose?,Six|Square|Fabric|Turquoise|Storage
+/kaggle/input/sqid-test/images/B07BMK2R72.jpg,What animal is this?|What color is it?|How many horns?|What is the material?|What is it doing?,Dragon|Teal|Two|Plush|Standing
+/kaggle/input/sqid-test/images/B079DXK7NG.jpg,What is being held?|What color is sky?|What is man doing?|How many eyes?|What is background?,Fish|Red|Smiling|Two|Water
+/kaggle/input/sqid-test/images/B00B1W4A2K.jpg,What is the main object?|What color is predominant?|What is in foreground?|Who is the author?|How many children?,House|Red|Grave|Kathryn|Two
+/kaggle/input/sqid-test/images/B00NQ3H56A.jpg,What is the object?|What color is it?|What is it made from?|What time is shown?|How many crowns?,Watch|Silver|Metal|Analog|One
+/kaggle/input/sqid-test/images/B08L3D15ZM.jpg,What are these?|How many targets?|What color are rings?|What shape are targets?|Are the targets hollow?,Targets|Two|Red|Round|Solid
+/kaggle/input/sqid-test/images/B07MH5YJV3.jpg,What animal appears?|What color predominates?|How many pounds?|What's the material?|What object is this?,Rabbit|Brown|One|Cardboard|Box
+/kaggle/input/sqid-test/images/B07RP8HYVS.jpg,What object is shown?|What color is part?|How many ends?|What color are wires?|What shape are tips?,Cable|Blue|Two|Black|Angled
+/kaggle/input/sqid-test/images/1843831406.jpg,What is depicted?|What color is text?|How many people?|What kind artwork?|What are they doing?,Siege|Red|Many|Painting|Fighting
+/kaggle/input/sqid-test/images/B07CGD529T.jpg,Who is visible?|What color are trunks?|How many hands?|What clothing displayed?|Describe build?,Man|Blue|One|Shorts|Muscular
+/kaggle/input/sqid-test/images/B07JVB5GZY.jpg,What garment is worn?|What color are pants?|How many bows appear?|Where is the bow?|What material are pants?,Pants|Black|Two|Ankle|Cloth
+/kaggle/input/sqid-test/images/B07SRYP11M.jpg,What are these?|How many chairs?|What color are they?|What's the material?|Are chairs upright?,Chairs|Six|Black|Fabric|Upright
+/kaggle/input/sqid-test/images/B07PM39LMT.jpg,What are the featured items?|What is the packaging color?|What shape is Nabisco's logo?|How many total sugars?|Is package slit?,Cookies|Black|Triangle|Fourteen|Opened
+/kaggle/input/sqid-test/images/B00BKES3XG.jpg,How many CDs?|Hat's color?|How many composers?|Headscarf's color?|Genre?,Seven|Black|Five|White|Opera
+/kaggle/input/sqid-test/images/B00HWXXTBA.jpg,What color is it?|What is the frame?|How many sections?|What is it used for?|What shape is each section?,White|Wood|Six|Storage|Rectangular
+/kaggle/input/sqid-test/images/B00N6657XA.jpg,What plant is this?|What color is it?|What type of plant?|How many?|What is the leaf type?,Dill|Green|Herb|Many|Fronds
+/kaggle/input/sqid-test/images/B001ENOLZ2.jpg,What brand is this?|What color is upper label?|What color is the lower label?|What weight is stated?|What is the container made of?,Goop|Blue|White|Fourteen|Plastic
+/kaggle/input/sqid-test/images/B07JZLT5G4.jpg,What is the main object?|What color is the frame?|What is the material?|How many weight holders?|What type of room?,Machine|Black|Metal|Four|Gym
+/kaggle/input/sqid-test/images/B07CK21NXR.jpg,What is the object?|What color is it?|How many pieces?|What is material?|What shape is it?,Faucet|Silver|Three|Metal|Curved
+/kaggle/input/sqid-test/images/B01N5J49JP.jpg,What is the main object?|What is it made of?|How many doors?|What color is it?|Is drawer open?,Cart|Wood|Two|Brown|Open
+/kaggle/input/sqid-test/images/B07MXXHSBV.jpg,How many items?|What color are pants?|What color is jacket?|What is material?|Where is zipper?,Four|Blue|Grey|Cotton|Front
+/kaggle/input/sqid-test/images/B07745PV5G.jpg,What object is shown?|What color is background?|How many hands are visible?|What action is occurring?|Is the item waterproof?,Reader|Green|One|Holding|Waterproof
+/kaggle/input/sqid-test/images/B07HFXTT6J.jpg,What item is shown?|What is the primary color?|How many socks?|What color are toes?|What direction are socks?,Socks|Black|Six|Grey|Upright
+/kaggle/input/sqid-test/images/B00KH7SA4E.jpg,How many containers?|What color are lids?|What is inside?|What are the protrusions?|What shape are these?,Three|White|Food|Handles|Round
+/kaggle/input/sqid-test/images/B00068XCQU.jpg,What object is pictured?|What color is background?|What voltage is shown?|What is top light?|How many amps?,Charger|Green|Twelve|Charging|One
+/kaggle/input/sqid-test/images/B081QZ2YSG.jpg,What is the main object?|What color is the hammock?|What is beside hammock?|How many ropes exist?|What is material type?,Hammock|White|Bag|Many|Fabric
+/kaggle/input/sqid-test/images/B07WVFCVJN.jpg,What brand is shown?|What color is box?|What color is remote?|How many cables?|Which cable included?,Express|Purple|Black|One|HDMI
+/kaggle/input/sqid-test/images/B07WCTFLQK.jpg,What clothing is worn?|What color are pants?|How many shoes?|Condition of jeans?|Pattern of jacket?,Jeans|Blue|Two|Ripped|Leopard
+/kaggle/input/sqid-test/images/B00CQGTH00.jpg,What item fills the boxes?|What color are the shoes?|How many boxes visible?|What is the bin material?|What shape are boxes?,Totes|Blue|Six|Clear|Rectangular
+/kaggle/input/sqid-test/images/B07N8HZ82F.jpg,What clothing is shown?|What color are they?|What closure is visible?|How many pockets shown?|How many logos visible?,Shorts|Black|Drawstring|One|None
+/kaggle/input/sqid-test/images/B01ARNNQI2.jpg,What is displayed?|What color is base?|How many bars?|What is bangle’s shape?|What is base material?,Jewelry|Brown|Two|Round|Wood
+/kaggle/input/sqid-test/images/B078GSPH61.jpg,What object is featured?|How many insoles?|What color fades?|What type insole?|What color bottom?,Soles|Three|Red|Orthotic|Black
+/kaggle/input/sqid-test/images/B081S6BJL3.jpg,What item is pictured?|What color is packaging?|How many strips?|What shape are strips?|Are there multiple items?,Tape|Pink|Six|Rectangular|Multiple
+/kaggle/input/sqid-test/images/B00E9SQ63E.jpg,What is it?|Cap's color?|Material?|Liquid level?|Ring color?,Perfume|Black|Glass|Full|Gold
+/kaggle/input/sqid-test/images/B07Y15KXTM.jpg,What is the object?|What color is it?|What shape is it?|How many buttons?|Where is the USB?,Receiver|Black|Rectangular|Five|Front
+/kaggle/input/sqid-test/images/B0936HHXSL.jpg,What is the main object?|What color is the bottle's top?|What is the strap's texture?|How many motivational phrases exist?|What material is the bottle made of?,Bottle|Pink|Braided|Nine|Plastic
+/kaggle/input/sqid-test/images/B07T4V87MM.jpg,What clothing item?|What color sleeves?|How many logos?|What closure style?|What sportswear type?,Romper|Pink|One|Zippered|Swimming
+/kaggle/input/sqid-test/images/B07D1V4BBC.jpg,What is the main object?|What color is the body?|How many wheels?|What color is the seat?|What is the tire material?,Mower|Orange|Two|Black|Rubber
+/kaggle/input/sqid-test/images/B07XZY874L.jpg,What is the main object?|What color is the box?|How many packs are there?|What does bundle contain?|What is the arrangement?,Bundle|Black|Six|Cards|Stacked
+/kaggle/input/sqid-test/images/B074XNGMRP.jpg,What objects appear?|What color predominates?|How many shirts?|What is the fabric?|How are shirts arranged?,Shirts|Black|Five|Cotton|Stacked
+/kaggle/input/sqid-test/images/B07GQCN63S.jpg,What is this?|What is the case color?|How many cameras?|What is the wallpaper?|What is the brand?,Phone|Black|Three|Abstract|Spigen
+/kaggle/input/sqid-test/images/B0774Y4RKP.jpg,What is the main object?|What color is the pan?|What is the board made of?|What shape is the pan?|How many pans are there?,Pan|Black|Wood|Oval|One
+/kaggle/input/sqid-test/images/B06XWNN2LB.jpg,What are these?|How many containers?|What color is one?|What is behind?|What shape are they?,Containers|Seven|Blue|Box|Square
+/kaggle/input/sqid-test/images/B00LEA2FS0.jpg,What object is shown?|What color is phone?|How many screens displayed?|What color is iBobber?|What's beside the phone?,Phone|Black|Two|Red|Box
+/kaggle/input/sqid-test/images/B07FTSDBMT.jpg,What is depicted?|What color are the pajamas?|How many pieces?|What color are bones?|What is material?,Skeleton|Black|Two|White|Fabric
+/kaggle/input/sqid-test/images/B07RD9W7KJ.jpg,What is the main object?|What is the dominant color?|What is the beads' shape?|What color is the string?|How many beads?,Bracelet|Brown|Round|Black|Many
+/kaggle/input/sqid-test/images/B076VNSHG8.jpg,What is the main object?|What color are the frames?|What shape are the lenses?|How many lenses are visible?|What is the lens clarity?,Glasses|Gray|Rectangle|Two|Clear
+/kaggle/input/sqid-test/images/B07GBXNTZ3.jpg,What item is visible?|How many shirts?|Shirt primary color?|Shirt material?|What kind of clothing?,Shirts|Three|Blue|Cotton|Tops
+/kaggle/input/sqid-test/images/B01CQ15ZW8.jpg,What is the main object?|What color is the boot?|What is the boot made of?|How many boots?|What is the orientation?,Boot|Brown|Leather|One|Vertical
+/kaggle/input/sqid-test/images/B07SD36N44.jpg,What is the main object?|How many robots?|What color are wheels?|How many boxes?|What learning type?,Robot|Twelve|Gray|One|STEM
+/kaggle/input/sqid-test/images/B08HR68MQZ.jpg,What object is pictured?|What color is keyboard?|What is the keyboard shape?|How many keys shown?|Where is dial located?,Keyboard|Black|Rectangle|Many|Top
+/kaggle/input/sqid-test/images/B0793KTT6X.jpg,What are these objects?|What is the primary color?|What shape are they?|How many coasters are there?|What is their arrangement?,Coasters|Blue|Round|Five|Stacked
+/kaggle/input/sqid-test/images/B081S4FBQK.jpg,Subject?|Scarf?|Hats?|Topping?|Theme?,Dog|Red|Two|Pom|Holiday
+/kaggle/input/sqid-test/images/B07WHDS6RT.jpg,What is the object?|What color is strap?|What is the ring?|How many dents?|What is the shape?,Bottle|Blue|Metal|One|Round
+/kaggle/input/sqid-test/images/B01NAJ172G.jpg,What object is shown?|What color is the headband?|How many headphones?|What is the flag's material?|What is behind headphones?,Headphones|Black|Two|Fabric|Box
+/kaggle/input/sqid-test/images/B07ZFPD1P3.jpg,What is the main object?|What color is the device?|What shape is the logo?|How many stickers shown?|Where are the vents?,Light|Black|Triangle|Seven|Left
+/kaggle/input/sqid-test/images/B07GZJPJJN.jpg,What is the object?|What is the color?|What is the material?|How many shoes?|What kind of tie?,Shoe|Black|Mesh|One|Laces
+/kaggle/input/sqid-test/images/B08GX2CBC9.jpg,What are the objects?|What color are the belts?|How many belts?|What is the belt's shape?|What is the belt's texture?,Belts|Black|Three|Rectangular|Toothed
+/kaggle/input/sqid-test/images/B078X7G66Q.jpg,Material?|Quantity?|Sealant?|What is grooved?|What is it?,Brass|Two|Red|Threads|Metal
+/kaggle/input/sqid-test/images/B01IYBVIL6.jpg,What object is this?|What color is it?|What's it made of?|How many objects?|What shape is it?,Perfume|Black|Glass|One|Shoe
+/kaggle/input/sqid-test/images/1937543757.jpg,What animal appears?|How many words?|What color are outlines?|What is on top?|What are the forms?,Bird|Two|Black|Title|Lines
+/kaggle/input/sqid-test/images/B087NG97K3.jpg,What is being braided?|What color is the braiding?|How many bundles?|What is the length?|What background?,Hair|Blue|Eight|Long|Brick
+/kaggle/input/sqid-test/images/B082LPMMRS.jpg,What is the main object?|What is the color?|What are the pockets?|How many logos?|What is the shape?,Backpack|Black|Mesh|One|Infinity
+/kaggle/input/sqid-test/images/B07VQ5KDXT.jpg,What is the main object?|What color is the object?|What is the object's shape?|What material is it?|What pattern is present?,Cradle|Gray|Oval|Fabric|Crowns
+/kaggle/input/sqid-test/images/B01MS9OEGJ.jpg,What is the object?|What color is it?|What is the globe's material?|Is the lamp mounted?|How many lightbulbs?,Lamp|Black|Glass|Hanging|One
+/kaggle/input/sqid-test/images/B07NHMRTCM.jpg,What is the object?|What color is it?|How many pockets?|What is it made of?|Where is handle?,Bag|Gray|Two|Fabric|Top
+/kaggle/input/sqid-test/images/B07JHFNJDF.jpg,What is the object?|What is its color?|What is its shape?|Is it waterproof?|How many speakers?,Speaker|Black|Round|Waterproof|One
+/kaggle/input/sqid-test/images/B010R04KSA.jpg,What is it?|What color?|How many vents?|What brand?|What material?,Helmet|Black|Three|Rawlings|Plastic
+/kaggle/input/sqid-test/images/B07LBXYNDM.jpg,What are these objects?|How many objects are there?|What is the pole color?|What is simulated?|What time is it?,Torches|Four|Black|Flame|Night
+/kaggle/input/sqid-test/images/B01MFEFT1W.jpg,What are these?|How many boxes?|What is color?|What is material?|What is shape?,Boxes|Twelve|Clear|Plastic|Rectangular
+/kaggle/input/sqid-test/images/B01JHWZAMY.jpg,What is the main object?|What color is mouthguard?|How many items shown?|Is the case open?|What color is the clip?,Mouthguard|Black|Two|Open|Red
+/kaggle/input/sqid-test/images/B07CBSDWNV.jpg,What is the product?|What color is the lid?|What is the bottle material?|How many bottles?|What flavor is this?,Juice|Red|Glass|One|Light
+/kaggle/input/sqid-test/images/B00O83VIGA.jpg,What item is shown?|What color is shirt?|What color is text?|How many sentences?|Is the shirt plain?,Shirt|Black|White|Two|No
+/kaggle/input/sqid-test/images/B07ZW6ZR8N.jpg,What is the main object?|How many cups?|What is the material?|What color is handle?|What is surface?,Teapot|Four|Glass|Black|Marble
+/kaggle/input/sqid-test/images/B07RB474Z7.jpg,Who is featured?|What color is garment?|What color are pants?|How many bracelets?|Are there sleeves?,Woman|Black|White|One|Sleeveless
+/kaggle/input/sqid-test/images/B0797TPBPQ.jpg,What is the object?|What color is it?|What is the texture?|What brand is it?|How many brushes?,Brush|Maroon|Bristled|Torino|One
+/kaggle/input/sqid-test/images/B00837ZGRY.jpg,What object is shown?|What color is device?|How many batteries?|What is handle color?|What is near device?,Thermometer|Yellow|One|Black|Battery
+/kaggle/input/sqid-test/images/B08CSM7TBT.jpg,What object is this?|What color is moon?|What is the bowl's shape?|What holds noodles?|What color is background?,Phone|Red|Circular|Chopsticks|Black
+/kaggle/input/sqid-test/images/B01M3Z5L10.jpg,What object is shown?|What color is the lid?|What type of storage?|How many objects?|What is the patent's status?,Container|Green|Vacuum|Two|Pending
+/kaggle/input/sqid-test/images/B006T8BXF8.jpg,What is the main object?|What color is the bottle?|What color is volume?|How many doves?|What is the container's material?,Shampoo|White|Purple|Zero|Plastic
+/kaggle/input/sqid-test/images/B07FF4J1P7.jpg,What color is bag?|How many sticks?|What is the stick's material?|What is this?|What are pockets?,Black|Six|Wood|Case|Mesh
+/kaggle/input/sqid-test/images/B084GMQJT4.jpg,What object is this?|What color is it?|How many seats?|What color is basket?|Material of wheels?,Stroller|Gray|Two|Black|Rubber
+/kaggle/input/sqid-test/images/B00JQVTOJC.jpg,What is the main object?|What color is background?|What is the can made of?|How many quarts?|What is the liquid?,Paint|Black|Metal|One|Combustible
+/kaggle/input/sqid-test/images/B01L0HYQM4.jpg,What are these?|How many filters?|What color is one?|What shape are they?|Are the filters flat?,Filters|Two|Black|Rectangular|Flat
+/kaggle/input/sqid-test/images/B07NPWM884.jpg,What is depicted?|What is color?|What is featured?|What is material?|How many sock?,Sock|Pink|Poodles|Fabric|One
+/kaggle/input/sqid-test/images/B07CW932QB.jpg,What garment is shown?|What color is garment?|How many lines appear?|Are sleeves present?|What appears printed?,Shirt|Green|Eight|None|Text
+/kaggle/input/sqid-test/images/B0863KXJRG.jpg,What item is worn?|What color is garment?|How many hands?|What's shorts' condition?|Where is necklace?,Sweatshirt|Blue|Two|Ripped|Neck
+/kaggle/input/sqid-test/images/B07F2JQ3Y4.jpg,What is the main object?|How many rings?|What is the tone?|What is the material?|What is the shape?,Rings|Eight|Dark|Metal|Round
+/kaggle/input/sqid-test/images/B0018N7J8E.jpg,What product is this?|What color is background?|What color is the lid?|What is the liquid?|How many fluid ounces?,Podge|Red|White|Sealer|Thirty-two
+/kaggle/input/sqid-test/images/B0046EC17G.jpg,What is the main object?|What color is the cabinet?|How many sections are present?|What shape is the knob?|What is the material?,Cabinet|Brown|Two|Round|Wood
+/kaggle/input/sqid-test/images/B07R23RH5J.jpg,What is the object?|What color is it?|How many buttons?|What is the keychain?|What is the shape?,Taser|Pink|Two|Metal|Rectangular
+/kaggle/input/sqid-test/images/B07DDD5RB4.jpg,What color is the top?|What includes microSD?|How many adapters?|What background color?|What does MB represent?,Purple|Adapter|One|Black|Megabytes
+/kaggle/input/sqid-test/images/B07V1PW1YN.jpg,What is the main object?|What color is prominent?|What is the quantity?|What dietary characteristic?|How many bottles?,Bottle|Blue|Servings|Vegan|One
+/kaggle/input/sqid-test/images/B078J21RSB.jpg,What color are blueberries?|What color are squash?|How many containers?|What is in bottom container?|What is container material?,Blue|Yellow|Three|Chicken|Glass
+/kaggle/input/sqid-test/images/B07P1XFYJP.jpg,What brand is it?|What color is it?|How many dials?|What is the faucet?|What is the orientation?,Waterdrop|White|Three|Steel|Vertical
+/kaggle/input/sqid-test/images/B00Z7SX51Q.jpg,What is pictured?|What color is it?|What color is logo?|How many logos?|What's the brand?,Phone|Black|Silver|One|Otterbox
+/kaggle/input/sqid-test/images/B086QBH86M.jpg,What subject is pictured?|What color is wood?|How many chairs?|What color is cushion?|What's below sofa?,Furniture|Brown|Two|White|Table
+/kaggle/input/sqid-test/images/B00LLKIDNO.jpg,What is it?|Beard's color?|Hat's color?|What fastens?|Where is it?,Gnome|Orange|Brown|Buckle|Grass
+/kaggle/input/sqid-test/images/B082XVJLXH.jpg,What is the object?|What color is it?|What is the material?|How many blades?|Is the tip sharp?,Tool|Silver|Metal|One|Sharp
+/kaggle/input/sqid-test/images/B07GVPN73Q.jpg,What are the containers?|What is the color?|What decorates pot?|How many pots?|What is material?,Pots|Brown|Pumpkin|Twenty|Terracotta
+/kaggle/input/sqid-test/images/B081BM1LJT.jpg,What clothing is worn?|What color are overalls?|How many buttons visible?|Is model smiling?|What color are shoes?,Overalls|Brown|Two|Smiling|White
+/kaggle/input/sqid-test/images/B07D8SXGFM.jpg,What is the object?|What is the top color?|What shape is the object?|What size is indicated?|How many colors?,Toy|Yellow|Ball|Small|Two
+/kaggle/input/sqid-test/images/B07FNSWVDG.jpg,What color is it?|How many labels?|What is on top?|What color are lights?|What is material?,Black|Four|Knob|Red|Plastic
+/kaggle/input/sqid-test/images/B082T42Q85.jpg,What is the main object?|What color is the cushion?|What is the frame material?|How many legs?|What is the cushion shape?,Bench|Black|Wood|Four|Square
+/kaggle/input/sqid-test/images/B0130MFX74.jpg,What is the object?|What color is it?|What shape is it?|How many bottles?|How many visible patterns?,Perfume|White|Cylindrical|One|None
+/kaggle/input/sqid-test/images/B07JJ7PK23.jpg,Who is featured?|What is background?|What is outline?|What is garment?|How many Mickeys?,Mickey|Green|Triangle|Shirt|One
+/kaggle/input/sqid-test/images/B00008G5UB.jpg,How many movies?|What color widescreen?|What animal Cujo?|What movie left?|What color background?,Two|Brown|Canine|Thinner|Black
+/kaggle/input/sqid-test/images/B01FKEA8R0.jpg,What color is Spiderman?|How many books?|What is the main object?|What are autocolants?|What is Spiderman doing?,Red|Five|Book|Stickers|Standing
+/kaggle/input/sqid-test/images/B06Y48N3YT.jpg,What is this?|What color?|What shape?|Contains what?|How many pumps?,Pool|Blue|Round|Water|One
+/kaggle/input/sqid-test/images/B085HNC1B5.jpg,What color is the drink?|What is the container?|How many tablets?|What is to the right?|What shape is tablet?,Green|Tube|One|Glass|Round
+/kaggle/input/sqid-test/images/B002E62EFC.jpg,Object?|Color?|Material?|Howmany?|Shape?,Sunglasses|Brown|Metal|Two|Curved
+/kaggle/input/sqid-test/images/B07TKDDJGD.jpg,What are the wavy items?|What color is the rope?|What are the brackets made of?|How many screw are present?|Where are the brackets?,Springs|Brown|Metal|Twelve|Center
+/kaggle/input/sqid-test/images/B07JMVR9V3.jpg,What item is worn?|What is dress color?|What is shoes color?|How many people?|What part showing?,Dress|Black|White|One|Knees
+/kaggle/input/sqid-test/images/B005V2VMQ8.jpg,What shape is it?|What color is it?|What is it made of?|How many sides?|Are screws visible?,Square|Black|Metal|Four|None
+/kaggle/input/sqid-test/images/B018R7QDC6.jpg,What color is outside?|How many drawstrings?|What item is this?|What color is inside?|What is material?,Grey|One|Balaclava|Pink|Cloth
+/kaggle/input/sqid-test/images/B07K6MXCRW.jpg,What object is prominent?|What color is faucet?|What material is it?|How many faucets shown?|What is the location?,Faucet|Black|Metal|One|Indoors
+/kaggle/input/sqid-test/images/B001X6H1P2.jpg,What is it?|Color?|Material?|Number?|Brand?,Fountain|Gray|Metal|One|Elkay
+/kaggle/input/sqid-test/images/B000RUJZS6.jpg,What is the main object?|What color is the bottle?|How many 'in' are listed?|What are pictured?|What is inside?,Bottle|Blue|Three|Flowers|Liquid
+/kaggle/input/sqid-test/images/B0797M1NLG.jpg,What are these?|What color are they?|How many items?|What shape are they?|What connects them?,Patches|Gray|Many|Square|Wires
+/kaggle/input/sqid-test/images/B07L9MJSPH.jpg,What is the product?|What is background color?|How many dogs?|What animal featured?|What is the packaging?,Gel|White|One|Dog|Tube
+/kaggle/input/sqid-test/images/B07F44SCSQ.jpg,What product is it?|What color is it?|What shape is it?|How many items?|What brand is it?,Lipstick|White|Cylindrical|One|Beauty
+/kaggle/input/sqid-test/images/B00LHYFQ7A.jpg,What is being sold?|What is the background color?|How many wheat icons?|What form are vitamins?|What color is the lid?,Vitamins|Purple|Two|Chews|Gold
+/kaggle/input/sqid-test/images/B07N9J4XGP.jpg,What is the object?|What color is it?|What shape is it?|Are there any patterns?|How many objects?,Toilet|White|Round|None|One
+/kaggle/input/sqid-test/images/B07GL7PNPQ.jpg,What is the main object?|What color is the lid?|How many wheels?|What color are the legs?|What is the material?,Grill|Brown|Two|Black|Metal
+/kaggle/input/sqid-test/images/B07GT9NNZD.jpg,What color is cooler?|How many coolers?|What is pad material?|What is included?|What shape is pad?,White|One|Fabric|Remote|Cylindrical
+/kaggle/input/sqid-test/images/B07M9857TW.jpg,What are they wearing?|What color are the pants?|How many stripes?|What type are the pants?|What brand are these?,Trousers|Gray|Three|Athletic|Adidas
+/kaggle/input/sqid-test/images/B07KYHLZMW.jpg,How many onesies?|What color is topmost?|What color is bottommost?|What color is middlest?|Material is what?,Three|Red|Blue|White|Cotton
+/kaggle/input/sqid-test/images/B07KM3WHMH.jpg,How many folders?|What color folder?|What shape are they?|What is stacked?|What are these?,Six|Blue|Flat|None|Folders
+/kaggle/input/sqid-test/images/B00OCUA8K6.jpg,Who is pictured?|What is background color?|How many books?|What color is 'Haunting'?|What kind novel?,Woman|Gray|Five|Red|Book
+/kaggle/input/sqid-test/images/B0834NY8VV.jpg,What object is this?|What color is it?|What shape is it?|How many propellers?|What material is this?,Vehicle|Green|Round|One|Inflatable
+/kaggle/input/sqid-test/images/B00CKFL93K.jpg,What object is pictured?|What color is bottle?|What does it remove?|What color is label?|How many bottles?,Bottle|White|Stain|Blue|One
+/kaggle/input/sqid-test/images/B01MSYCWMO.jpg,Who is shown?|What is the shirt's color?|What color are pants?|How many people?|How many lemons?,Woman|Blue|White|One|None
+/kaggle/input/sqid-test/images/B071W6WB7Z.jpg,Which brand?|Background color?|Pads quantity?|Container shape?|Treatment type?,Pixi|Green|Sixty|Circle|Exfoliating
+/kaggle/input/sqid-test/images/B003IQVKDO.jpg,What color is controller?|What part is metallic?|How many screws exist?|What shape is controller?|What is plate material?,Gray|Transformer|Five|Rectangle|Metal
+/kaggle/input/sqid-test/images/B07SCW5DV9.jpg,What is she wearing?|What color is garment?|Where does it end?|How many legs?|What's the material?,Dress|Purple|Knee|Two|Fabric
+/kaggle/input/sqid-test/images/B01JWO5RK2.jpg,What is the object?|What is the top's color?|What is the material?|How many ports?|Is the cup transparent?,Filter|White|Mesh|Two|Transparent
+/kaggle/input/sqid-test/images/B07HFGRJB2.jpg,How many packs?|What color is background?|What are the objects?|What color are bottles?|What baked good present?,Six|Pink|Bottles|Brown|Cupcake
+/kaggle/input/sqid-test/images/1683640055.jpg,Who is standing?|What is background?|What color are sunflowers?|How many girls?|What is she standing?,Girl|Blue|Yellow|One|Rock
+/kaggle/input/sqid-test/images/B07Q12RSXX.jpg,What object is it?|What is primary hue?|What is secondary color?|How many cameras?|What is case color?,Phone|Blue|Gold|One|Clear
+/kaggle/input/sqid-test/images/B07B3Y9FY6.jpg,What object is pictured?|What color is packaging?|How many packs?|What brand is this?|How are packs arranged?,Wipes|Green|Six|Cottonelle|Stack
+/kaggle/input/sqid-test/images/B00274XQVW.jpg,What is the object?|What color is it?|What shape is it?|What is the material?|How many objects?,Turntable|Gray|Round|Marble|One
+/kaggle/input/sqid-test/images/B083QPG8DB.jpg,What is the main object?|What color is prevalent?|What shape is the button?|How many buttons above right-stick?|What's atop the left?,Controller|Purple|Circular|Four|Joystick
+/kaggle/input/sqid-test/images/B07PXNNFGT.jpg,What is the product?|What color is jar?|What accompanies product?|How much sugar?|Product certification?,Protein|White|Flower|One|Vegan
+/kaggle/input/sqid-test/images/B072YMYFF3.jpg,What object is this?|What color is truck?|How many shovels?|What color is roller?|What is scoop doing?,Truck|Green|Four|Yellow|Scooping
+/kaggle/input/sqid-test/images/B00SK66JZ6.jpg,What color is 'Vibrance'?|How many supplements?|What is this?|What color is background?|What does Vibrant promote?,Green|One|Superfood|White|Health
+/kaggle/input/sqid-test/images/B01JOOM9GK.jpg,What is the main object?|What color is the strap?|What is the material?|How many clips?|Is it buckled?,Strap|Brown|Leather|Two|Buckled
+/kaggle/input/sqid-test/images/B0741391RK.jpg,What is the main object?|What color is the device?|What surrounds the laptop?|How many logos visible?|What type is the protector?,Laptop|White|Case|One|Screen
+/kaggle/input/sqid-test/images/B00U6DJCR8.jpg,What color are the buds?|What is the jar material?|How many cats are present?|What is the brand?|What shape is the logo?,Green|Glass|One|Meowijuana|Circle
+/kaggle/input/sqid-test/images/B00E5YCBO0.jpg,What object is this?|What color is it?|What is bottle made of?|How many bottles?|What color is cap?,Polish|Red|Glass|One|Black
+/kaggle/input/sqid-test/images/B094NW2LMV.jpg,Who is standing?|What color is road?|What looms beyond?|How many people?|What is road's texture?,Person|Gray|Mountains|One|Asphalt
+/kaggle/input/sqid-test/images/B00M24ZA20.jpg,What color is it?|What is the texture?|What material is it?|How many objects?|What is the state?,Red|Shiny|Fabric|None|Draped
+/kaggle/input/sqid-test/images/B089K2VQHD.jpg,What is the object?|What color is it?|What is it made of?|What does it have?|How many boots?,Boot|Brown|Leather|Laces|One
+/kaggle/input/sqid-test/images/0761189203.jpg,What animal is present?|What background color?|What kind of book?|What grade is mentioned?|What color are the goggles?,Octopus|Blue|Workbook|Five|Orange
+/kaggle/input/sqid-test/images/B07MJZJ3N9.jpg,Who is pictured?|What pattern is shirt?|What color are pants?|How many belts?|What expression showing?,Woman|Leopard|Black|One|Smiling
+/kaggle/input/sqid-test/images/B005HWM7V6.jpg,What is this?|Gemstone color?|Metal color?|How many bands?|Gemstone shape?,Ring|Purple|Silver|Two|Heart
+/kaggle/input/sqid-test/images/1983410365.jpg,What are those?|What is the sky?|What is the medium?|How many words?|What is printed?,Mountains|Blue|Clouds|One|Text
+/kaggle/input/sqid-test/images/B01DXYMSMM.jpg,What is the object?|What color is it?|What shape is it?|How many doors?|What's the material?,Tent|Black|Rectangular|Two|Fabric
+/kaggle/input/sqid-test/images/B07PT4WGNK.jpg,What are these?|What is the metal?|How many earrings?|What is a color?|What is the shape?,Earrings|Silver|Two|Pink|Cone
+/kaggle/input/sqid-test/images/B00BVO5J2S.jpg,What item is this?|What color is it?|What shape is it?|What material is it?|How many containers?,Cream|Purple|Round|Glass|One
+/kaggle/input/sqid-test/images/B0078DPHQE.jpg,What is the product?|What color is the cap?|What is it made of?|How many bottles?|Is bottle full?,Bitters|Red|Glass|One|Full
+/kaggle/input/sqid-test/images/B07YYJFS5Q.jpg,What objects present?|Lanyards color?|How many whistles?|Material whistles?|How many count?,Whistles|Black|Two|Metal|Seven
+/kaggle/input/sqid-test/images/B08C56PGZ8.jpg,What item is featured?|What color is label?|How many gummies outside?|What flavor?|Is bottle light?,Gummies|Green|Three|Strawberry|Dark
+/kaggle/input/sqid-test/images/B087QHHCVM.jpg,What object are these?|How many earrings?|What is shape?|What color is circle?|What is hardware?,Earrings|Two|Rectangular|Red|Silver
+/kaggle/input/sqid-test/images/B005P75YIQ.jpg,What are these?|What color is box?|How many golfballs?|What color are golfballs?|What shape are golfballs?,Golfballs|Gold|Twelve|White|Round
+/kaggle/input/sqid-test/images/B083LDTH1C.jpg,What are these?|What color?|What material?|How many?|Are they wrapped?,Razors|Blue|Plastic|Several|Outside
+/kaggle/input/sqid-test/images/B01LS9JI22.jpg,What object is this?|What color is it?|What is the shape?|Where was it made?|How many lights?,Microphone|Black|Rectangular|Australia|One
+/kaggle/input/sqid-test/images/B07VMC4RBC.jpg,What is the object?|What color is it?|What are handles?|What shape is it?|How many tags?,Basket|Black|Leather|Round|One
+/kaggle/input/sqid-test/images/B07PXD91K6.jpg,What object is shown?|What color is predominant?|What color is wand?|How many pieces?|What is on top?,Dress|Pink|Silver|Five|Crown
+/kaggle/input/sqid-test/images/B01CQ3DWVC.jpg,What product is shown?|What is background color?|What is the bottle's material?|How many servings?|Which vegetable appears?,Multivitamin|Yellow|Glass|Sixty|Broccoli
+/kaggle/input/sqid-test/images/B01M2V05RE.jpg,What is pictured?|Earbuds color?|How many earbuds?|Jack material?|Cables color?,Earphones|Black|Two|Metal|Gray
+/kaggle/input/sqid-test/images/B00L6JG9UE.jpg,What is the main object?|What color is the bag?|What is the bag made of?|How many buckles on pocket?|What is the bag's shape?,Bag|Brown|Leather|Two|Rectangle
+/kaggle/input/sqid-test/images/B06XJDW3WC.jpg,What is the garment?|What color are pants?|How many shoes?|What is material?|What is pose?,Jeans|Blue|Two|Fabric|Standing
+/kaggle/input/sqid-test/images/B07YJMJ2VB.jpg,How many phones?|What color are cases?|What brand visible?|What shape is phone?|What material is it?,Two|Clear|Apple|Rectangular|Glass
+/kaggle/input/sqid-test/images/B093FF4LTC.jpg,What is the metal?|How many carabiners?|What is handle color?|Is pull-down bar bent?|What are these?,Chrome|Five|Black|Bent|Handles
+/kaggle/input/sqid-test/images/B01KOVMFYI.jpg,How many retractors?|What color are retractors?|What shape are retractors?|What is ring's material?|What is clip's material?,Two|Gray|Round|Metal|Plastic
+/kaggle/input/sqid-test/images/B06Y3QXSGX.jpg,What is pictured?|What color is bridge?|How many bridges?|What is around bulb?|What color is top?,Bulbs|White|One|Box|Purple
+/kaggle/input/sqid-test/images/B07499NZ6L.jpg,What object is this?|What color is prevalent?|What is its shape?|How many shoes?|Is it a sock?,Shoe|Pink|Curved|One|Sock
+/kaggle/input/sqid-test/images/B0819WPM2Z.jpg,What is the object?|What color is it?|What shape is it?|What is the material?|How many legs?,Table|Brown|Round|Wood|Four
+/kaggle/input/sqid-test/images/B06XH654QH.jpg,What is the main object?|What is the dominant color?|What is the object's shape?|What is the material?|How many pipes?,Pipe|Black|Round|Metal|One
+/kaggle/input/sqid-test/images/B07RRT45BG.jpg,What is the object?|What color is it?|What is it made of?|How many are there?|Is it flat?,Slippers|Pink|Fabric|Two|Flat
+/kaggle/input/sqid-test/images/B098B7CK8G.jpg,Who is pictured?|What color is background?|What is subject's form?|How many drinks?|What activity is 'guide' for?,Waitress|Maroon|Silhouette|One|Reading
+/kaggle/input/sqid-test/images/B00BF08AJM.jpg,What instrument is featured?|What background color?|Who's the author?|What kind of book?|What's the book title?,Piano|Black|Tara|Series|Dominant
+/kaggle/input/sqid-test/images/B07T9HDPJN.jpg,What shows the time?|What color is band?|What number day?|What shape is dial?|Is screen simple?,Watch|Silver|Twelve|Circular|Busy
+/kaggle/input/sqid-test/images/B01M2Z0QLJ.jpg,What is burning?|What color is frame?|What is visible?|How many logs?|Is electricity visible?,Logs|Black|Fire|Four|No
+/kaggle/input/sqid-test/images/B07T9W2H3B.jpg,What animal appears?|What's background's color?|What's man doing?|How many dogs?|What's behind man?,Dog|Brown|Standing|One|Building
+/kaggle/input/sqid-test/images/B0798GRR24.jpg,What is the main object?|What color are the poles?|What is the rack material?|How many shelves present?|Where is the topmost shelf?,Shelves|Brown|Metal|Six|Above
+/kaggle/input/sqid-test/images/B0142HX6JS.jpg,What is the main object?|What is the object color?|What is the object made of?|How many calipers?|What is the purpose?,Caliper|Silver|Metal|One|Measuring
+/kaggle/input/sqid-test/images/B000MSW134.jpg,What is the main object?|What color is the sandal?|What is the strap material?|How many straps?|What is the heel height?,Sandal|Black|Leather|Two|Flat
+/kaggle/input/sqid-test/images/B07QN22K3V.jpg,What is the main object?|What color is the band?|What hour is displayed?|What brand is it?|What material is band?,Watch|Purple|Twelve|Fitbit|Rubber
+/kaggle/input/sqid-test/images/B0728HL65D.jpg,What is the object?|What border color?|What is shown?|How many objects?|Are keys visible?,Tablet|Black|Clouds|One|None
+/kaggle/input/sqid-test/images/B00AC6V0VA.jpg,What is the object?|What color is it?|What shape is it?|What is the material?|How many logos?,Beanie|Gray|Round|Fabric|One
+/kaggle/input/sqid-test/images/B088T1J2W6.jpg,What animal is cuddling?|What color is cat?|What is this?|How many animals?|What is the dog?,Dog|Grey|Book|Two|Reading
+/kaggle/input/sqid-test/images/B06XSM9SPS.jpg,What is the object?|What color is it?|What shape is it?|How many items?|Is it open?,Lipstick|Maroon|Cylindrical|One|Closed
+/kaggle/input/sqid-test/images/B07M6HSVZS.jpg,What is depicted?|What color is it?|How many red buttons?|What are the controls?|What is showing?,Phone|Black|Two|Buttons|Icons
+/kaggle/input/sqid-test/images/B01MXXWWRH.jpg,What is inside?|Label color?|Container shape?|How many containers?|For which animals?,Powder|Purple|Round|One|Reptiles
+/kaggle/input/sqid-test/images/B0932YWWHT.jpg,What is displayed?|What color is above button?|What color are earphones?|How many gigabytes?|What color is backing?,Music|Green|White|Sixteen|Blue
+/kaggle/input/sqid-test/images/B07Y431FRQ.jpg,What is the main object?|What color is the case?|What is the tablet's shape?|How many devices?|Is case open?,Tablet|Gray|Rectangle|Two|Open
+/kaggle/input/sqid-test/images/B00WJE44DO.jpg,How many containers?|What color are lids?|What product type?|What shape are containers?|What color is bottom container?,Three|Blue|Lipbalm|Rounded|Pink
+/kaggle/input/sqid-test/images/B07X7CRY54.jpg,What color are pants?|How many shoes?|What is material?|What holds pocket?|What color is top?,Red|Two|Fabric|Hand|Black
+/kaggle/input/sqid-test/images/B01NA8VF0F.jpg,What is the object?|What color is side?|What is the material?|What color is top?|What are spikes?,Shoe|Orange|Mesh|Black|Metal
+/kaggle/input/sqid-test/images/B08RJC5ZTL.jpg,What color are leggings?|How many people?|Are feet covered?|What material are leggings?|What is the pose?,Black|One|Barefoot|Fabric|Standing
+/kaggle/input/sqid-test/images/B07N7TQ4NW.jpg,What footwear is shown?|What color are straps?|What pattern is present?|How many colors?|What is the heel?,Sandal|Black|Animal|Two|Wedge
+/kaggle/input/sqid-test/images/B074T599M8.jpg,How many soldiers?|What are they holding?|What is the weather?|What color is vegetation?|Are they sitting?,Seven|Guns|Cloudy|Green|Standing
+/kaggle/input/sqid-test/images/B07VL61RM6.jpg,What is the object?|What is cushion color?|What is frame material?|How many chairs?|What is chair doing?,Chair|Blue|Wood|One|Sitting
+/kaggle/input/sqid-test/images/B07PHCWJ9W.jpg,What is the main object?|What is the bag's color?|Where is the child?|How many bags?|What is bag's material?,Bag|Green|Sand|One|Mesh
+/kaggle/input/sqid-test/images/B00W2EH98I.jpg,What item is pictured?|How many bath bombs?|What color is box?|What shape are labels?|What is around bombs?,Bombs|Six|Brown|Circles|Paper
+/kaggle/input/sqid-test/images/B07VHBX3ZC.jpg,What fills the jars?|What color are the lids?|How many label sheets?|What shape are jars?|What color is funnel?,Spice|Silver|Twenty|Square|Blue
+/kaggle/input/sqid-test/images/B076XS546B.jpg,What is the object?|What color is it?|What shape is it?|How many logos?|What is material?,Projector|Black|Rectangular|One|Plastic
+/kaggle/input/sqid-test/images/B07VSHJYHP.jpg,How many items?|What color is second?|What is the material?|What shape are they?|Are containers transparent?,Seven|Orange|Plastic|Hourglass|Clear
+/kaggle/input/sqid-test/images/B01M2X8FA7.jpg,What is the object?|What color is it?|What is it made of?|How many ends?|What feature shows?,Elbow|Silver|Metal|Two|Threads
+/kaggle/input/sqid-test/images/B07RL1TR94.jpg,What is this?|What color is it?|What is it made of?|How many shoes?|Are laces visible?,Shoe|Beige|Leather|One|None
+/kaggle/input/sqid-test/images/B0863ZLZF3.jpg,What color is it?|How many settings?|What is written?|What is it?|How many attachments?,Gray|Two|Nozama|Plastic|Zero
+/kaggle/input/sqid-test/images/B07Z9RRGPR.jpg,Who is visible?|What color dress?|What is dangling?|How many bags?|What is brown?,Woman|Blue|Keys|One|Bag
+/kaggle/input/sqid-test/images/B07M6P845R.jpg,How many individuals?|Shirt color?|Bracelets color?|Where worn?|Hair style?,Two|Blue|Black|Shoulders|Ponytail
+/kaggle/input/sqid-test/images/B08TRPVTW6.jpg,What is the primary object?|What color is the pump?|What is beside the filter?|What is the cylinder?|How many pools?,Pool|Black|Ladder|Filter|One
+/kaggle/input/sqid-test/images/B006PWS5W2.jpg,What is pictured?|What color are trees?|What shape is roof?|What says 'Free'?|How many cabins?,Cabin|Green|Triangular|Drawing|One
+/kaggle/input/sqid-test/images/B07GGS3NZS.jpg,What is this?|What color is it?|What is it made of?|How many pumps?|What is the shape?,Pump|Black|Plastic|One|Round
+/kaggle/input/sqid-test/images/B01HYX2WTW.jpg,What is the object?|What color is it?|How many handles?|What shape is it?|Are others visible?,Handle|Black|Twelve|Round|None
+/kaggle/input/sqid-test/images/B000CQYT9U.jpg,What is the figurine?|What color is the dress?|What shape is the face?|What are the wings made?|How many birds are present?,Angel|White|Oval|Wire|One
+/kaggle/input/sqid-test/images/B004QO9FK2.jpg,What tool is this?|What color is handle?|What is the material?|How many bits visible?|What color is case?,Screwdriver|Silver|Metal|Three|Black
+/kaggle/input/sqid-test/images/B07VJ4Z5YX.jpg,What object is this?|What color is it?|What shape are cup holders?|How many cupholders?|What is the material?,CarSeat|Gray|Round|Two|Fabric
+/kaggle/input/sqid-test/images/B07JBB3FY6.jpg,What object is displayed?|What color is it?|What is the surface?|How many rolls?|How many patterns?,Carpet|Red|Flat|One|None
+/kaggle/input/sqid-test/images/B000KC3Y0G.jpg,What object is shown?|How many pedals?|What color are pedals?|What are pedals made?|What does arrow say?,Pedals|Two|Silver|Metal|Tighten
+/kaggle/input/sqid-test/images/B076DH2WP5.jpg,What are those?|What color is it?|How many cables?|What is it made of?|Are clips included?,Cables|White|Four|Plastic|Attached
+/kaggle/input/sqid-test/images/B071WWCJ4Q.jpg,How many weapons?|What color is second row?|How many in column one?|What color is topmost?|What objects are depicted?,Twenty|Brown|Five|Black|Firearms
+/kaggle/input/sqid-test/images/B07XKCX337.jpg,What is the object?|What color is it?|What is sole?|How many shoes?|What activity?,Shoe|Green|Rubber|One|Running
+/kaggle/input/sqid-test/images/B084VBT815.jpg,What is the object?|What color is it?|What is the material?|What is shoe height?|How many shoes?,Shoe|Silver|Leather|Low|One
+/kaggle/input/sqid-test/images/B00A4H0VG2.jpg,What condiment is red?|What color is mustard?|What is the pump material?|How many pumps?|What color is holder?,Ketchup|Yellow|Plastic|Two|Black
+/kaggle/input/sqid-test/images/B017LJ70A0.jpg,What food is present?|What color is container?|What utensil is shown?|What is under layer?|How many compartments?,Salad|White|Fork|Greens|Five
+/kaggle/input/sqid-test/images/B08FF3ZTZG.jpg,What is advertised?|What color is bracelet?|How many necklaces?|What item is created?|What is background?,Jewelry|Pink|Three|Necklaces|Wood
+/kaggle/input/sqid-test/images/B07D6HTKCG.jpg,What part is this?|Filter border color?|What material is it?|How many gaskets?|What shade is carburetor?,Carburetor|Blue|Metal|Two|Gray
+/kaggle/input/sqid-test/images/B07NS5XCFV.jpg,What garment is shown?|What color is item?|How many strings?|What word appears?|What is material?,Hoodie|Pink|Two|Brock|Fabric
+/kaggle/input/sqid-test/images/B07GGRJWRB.jpg,What object is shown?|What color predominates?|How many tracks total?|Who is the artist?|What structure appears?,Album|Green|Two|Steve|Bridge
+/kaggle/input/sqid-test/images/B07PFN526R.jpg,What is this?|What is the base color?|What shape is it?|What stones are present?|How many colors?,Jewel|Rosegold|Round|Diamonds|Several
+/kaggle/input/sqid-test/images/B0753BSQR1.jpg,What is this device?|What color is device?|How many channels?|What color is screen?|What are the controls?,Transmitter|Black|Three|Green|Buttons
+/kaggle/input/sqid-test/images/B01KEXD6U8.jpg,What is the main object?|What color is the bitters?|What is the bottle made of?|How many bottles?|What is inside?,Bottle|Brown|Glass|One|Liquid
+/kaggle/input/sqid-test/images/B07PCHMY84.jpg,How many panels?|What color are nails?|What is wall material?|How many chairs?|What flowers present?,Five|Red|Brick|Three|Orchids
+/kaggle/input/sqid-test/images/B00595CEDC.jpg,What is the main object?|What color are some gumballs?|What is the bowl made of?|What contains gumballs?|What is the bottle's content?,Bottle|Pink|Glass|Bowl|Flavoring
+/kaggle/input/sqid-test/images/B07PXTTHZ5.jpg,What is the clothing?|What color are the shorts?|How many legs are showing?|Are there any clouds?|What is the person doing?,Shorts|Red|Two|None|Standing
+/kaggle/input/sqid-test/images/B01136O33Y.jpg,What footwear is shown?|What color is it?|What is the material?|What secures the boot?|How many boots are there?,Boot|Black|Suede|Laces|One
+/kaggle/input/sqid-test/images/B07WZD8BP1.jpg,What are these?|How many devices?|What color is one?|What type trackers?|What screen type?,Watches|Three|Black|Fitness|Digital
+/kaggle/input/sqid-test/images/B07G2XKXCL.jpg,What object is pictured?|What color is device?|What rises upwards?|What is the casing?|How many leaves are floating?,Humidifier|White|Steam|Plastic|Several
+/kaggle/input/sqid-test/images/B07N8T5QRV.jpg,What is the object?|What color is tire?|What is the tire's material?|How many wheels?|Where is vehicle driven?,Motorcycle|Black|Rubber|Two|Dirt
+/kaggle/input/sqid-test/images/B07Z3QR5Q9.jpg,What are on face?|What color is package?|Who wears patches?|How many patches shown?|Is content artificial?,Patches|Blue|Woman|Six|Natural
+/kaggle/input/sqid-test/images/B07QNPF79R.jpg,What item is inside?|What color is the banner?|What shape are the balls?|How many rows exist?|What is the container?,Ornaments|Yellow|Spherical|Four|Box
+/kaggle/input/sqid-test/images/B01D16HAFW.jpg,What brand is it?|What color is device?|How many buttons?|What mode selected?|What mode active?,Orbit|Gray|Four|Return|Cool
+/kaggle/input/sqid-test/images/B07779CDGX.jpg,What is the main object?|What color is the handle?|What color is the head?|How many triggers?|What color is the base?,Ratchet|Red|Silver|One|Black
+/kaggle/input/sqid-test/images/B08BRWYT7J.jpg,What color is it?|How many lights?|What is this?|What has a carabiner?|What is the material?,Black|One|Case|Clip|Plastic
+/kaggle/input/sqid-test/images/B07QHWXYF1.jpg,What is inside?|What color is pan?|What is the pan?|How many humps?|What is surface?,Bread|Black|Metal|Three|Shiny
+/kaggle/input/sqid-test/images/B07PCSS2ZN.jpg,What is the main object?|What color is device?|What is the image?|What is case material?|How many skulls?,Computer|Black|Skull|Metal|One
+/kaggle/input/sqid-test/images/B00CBT5HZ6.jpg,What is the main object?|What color is the bottle?|What is the box material?|How many bottles included?|What color are markings?,Oil|Yellow|Cardboard|Six|Black
+/kaggle/input/sqid-test/images/B07XNLTM4B.jpg,How many pieces?|What color is it?|What are the squares?|What color are ends?|What object is this?,Two|Orange|Connectors|Black|Cable
+/kaggle/input/sqid-test/images/B08C9WJJLL.jpg,Who is pictured?|What is the background color?|What body part is visible?|How many people?|What is the expression?,Girl|Brown|Ears|One|Sad
+/kaggle/input/sqid-test/images/B09BFQCNMR.jpg,What color is it?|What shape is it?|How many USBs?|What is the case?|What are slots?,Black|Square|Two|Metal|Ports
+/kaggle/input/sqid-test/images/B07G1VKCND.jpg,What object is pictured?|What color is it?|What shape is displayed?|How many patches?|How many spots?,Patches|Pink|Round|Ninety-six|Two
+/kaggle/input/sqid-test/images/B07N6DS2Z8.jpg,What is contained?|What color is it?|How many parts?|What is it?|Is it sealed?,Serum|White|Two|Plastic|Open
+/kaggle/input/sqid-test/images/B08C4XTKWM.jpg,What is she wearing?|What color is mask?|How many eyes visible?|What part visible?|Who is wearing it?,Mask|Black|Two|Ear|Woman
+/kaggle/input/sqid-test/images/B07GB2LMDF.jpg,What is the main object?|What color is the band?|How many screens are there?|What kind of display?|Where is it worn?,Tracker|Black|One|Digital|Wrist
+/kaggle/input/sqid-test/images/B08MY5PKJZ.jpg,What is the object?|What is sole color?|What is the shoe made of?|How many swooshes?|Where is the shoe?,Shoe|Beige|Leather|One|Outside
+/kaggle/input/sqid-test/images/B07VGF7CC2.jpg,How many objects?|What color is leftmost?|What pattern are chevrons?|What shape are handles?|What is the material?,Five|Black|Stripes|Rings|Fabric
+/kaggle/input/sqid-test/images/B077Y5W8YV.jpg,What is the object?|What color is it?|How many latches?|Color of latches?|What brand is?,Cooler|Gray|Two|Blue|Igloo
+/kaggle/input/sqid-test/images/B07HG2LJSP.jpg,What is the main object?|What color is the strap?|What is a strap material?|How many beads?|Where is the watch?,Watch|Black|Leather|Several|Wrist
+/kaggle/input/sqid-test/images/B07TV95PKH.jpg,What is the main object?|What color is the blanket?|What is the chair's material?|How many blankets?|What is the blanket's texture?,Chair|Orange|Leather|One|Plush
+/kaggle/input/sqid-test/images/B0773YT63R.jpg,What is the object?|What color are some wires?|What is the terminal material?|What color are other wires?|How many wires are there?,Wires|Blue|Metal|White|Many
+/kaggle/input/sqid-test/images/B083W3Q2L5.jpg,What product is pictured?|What color is bottle?|How many items?|What kind adhesive?|What is specially?,Adhesive|White|Two|Hair|Formulated
+/kaggle/input/sqid-test/images/B07CWV1XQ7.jpg,What is included?|What color is knife?|What is the pen made of?|How many carabiners?|What is the kit's purpose?,Knife|Black|Metal|One|Emergency
+/kaggle/input/sqid-test/images/B081MVNX9B.jpg,What disc type?|Suit's color?|How many movies?|Who's pictured?|Background color?,Bluray|Red|Two|Man|White
+/kaggle/input/sqid-test/images/B0041LNT6G.jpg,What color is it?|How many knobs?|What shape is top?|What type dryer?|What is cover?,Black|One|Dome|Salon|Plastic
+/kaggle/input/sqid-test/images/B077BRYBCB.jpg,What garment is shown?|What color is it?|What design is present?|How many drawstrings?|What color are strings?,Shorts|Pink|Anchors|One|White
+/kaggle/input/sqid-test/images/B075Q5Q6F1.jpg,What is presented?|What color is hair?|How many bundles?|What is hair texture?|Who is pictured?,Hair|Black|Three|Straight|Woman
+/kaggle/input/sqid-test/images/B00IJJ8PAG.jpg,What object is shown?|What color is bag?|How many poles shown?|What brand is it?|What does it have?,Suitcase|Black|Two|Olympia|Wheels
+/kaggle/input/sqid-test/images/B0009P5Z24.jpg,What material is this?|How many glasses?|What is glass color?|What liquid inside?|What is height?,Glass|Four|Clear|None|Tall
+/kaggle/input/sqid-test/images/B07CYLBZXQ.jpg,What is the object's shape?|How many objects?|What color is object?|Is the surface level?|What is the material?,Rectangle|One|Yellow|Flat|Ceramic
+/kaggle/input/sqid-test/images/B01B3IV4H0.jpg,What clothing is worn?|What is the color?|How many shoes?|What is fabric texture?|What action is done?,Leggings|Black|Two|Textured|Standing
+/kaggle/input/sqid-test/images/B07QY23ZV3.jpg,What are these?|What color is it?|What shape are they?|What is the orientation?|What's it made of?,Plates|Beige|Round|Stack|Paper
+/kaggle/input/sqid-test/images/B076MNSDJC.jpg,What is the main object?|What color is the bed?|How many pillows?|What is the bed's shape?|What is the bedding material?,Bed|Brown|One|Rectangular|Fabric
+/kaggle/input/sqid-test/images/B01JLSPW4U.jpg,What is worn?|What is the dress color?|Where is the dress?|What are the embellishments?|How many people?,Dress|Black|Floor|Jewels|One
+/kaggle/input/sqid-test/images/B005IA9JRM.jpg,What is the show?|What is background color?|How many people?|What is frame color?|What is advertised?,Friends|Purple|Six|Gold|Season
+/kaggle/input/sqid-test/images/B07V32V35V.jpg,What color are grips?|How many grips?|What material are handles?|What is the component?|How many zip-ties?,Black|Two|Plastic|Throttle|Four
+/kaggle/input/sqid-test/images/B076X5D5JH.jpg,What is the object?|What color is it?|What shape is it?|How many hinges?|Is door open?,Refrigerator|White|Rectangle|Two|Closed
+/kaggle/input/sqid-test/images/B01I18VBSC.jpg,What item is shown?|What color is swan?|What material is sphere?|How many objects?|Which bird is it?,Earrings|Black|Pearl|Two|Swan
+/kaggle/input/sqid-test/images/B083FK2QD5.jpg,What is pictured?|How many?|What material?|What are these?|What is coloration?,Bottles|Five|Plastic|Handles|Gradient
+/kaggle/input/sqid-test/images/B071NZZW47.jpg,What is pictured?|What color is it?|What's it made of?|How many stripes?|What brand is it?,Sandal|Black|Rubber|Three|Adidas
+/kaggle/input/sqid-test/images/B08N6G3MMZ.jpg,What object is this?|What color is the bottle?|What is the cap made of?|How many words are stacked?|What is visible?,Bottle|Red|Plastic|One|Text
+/kaggle/input/sqid-test/images/B019WZPTSG.jpg,What garment is shown?|What color is it?|What trim is featured?|How many legs?|What texture is visible?,Panties|Beige|Lace|Two|Smooth
+/kaggle/input/sqid-test/images/B07GN31TZ9.jpg,What instrument is this?|What color is the toy?|What accompanies the piano?|What color are the keys?|How many legs?,Piano|Pink|Microphone|White|Four
+/kaggle/input/sqid-test/images/B07KS17XR8.jpg,What is worn?|What color is fabric?|How many sleeves?|Is sleeve included?|What accessory?,Jersey|White|One|Included|Sleeve
+/kaggle/input/sqid-test/images/B00O0GFH4Y.jpg,What form is product?|What is main ingredient?|How many bottles?|What color is bottle?|What color is band?,Liquid|Silver|One|Brown|Blue
+/kaggle/input/sqid-test/images/B07DRXR6GH.jpg,What object is pictured?|What color is the bottle?|What is the bottle made of?|How many bottles?|What covers the bottle?,Bottle|Brown|Glass|One|Label
+/kaggle/input/sqid-test/images/B07BN44MY3.jpg,What is he wearing?|What color is the hoodie?|What color are pants?|How many pockets?|What is material?,Hoodie|Blue|Black|One|Cotton
+/kaggle/input/sqid-test/images/B07RD7SXNM.jpg,What is she wearing?|What color are pants?|What pattern is shirt?|How many hands show?|What garment are pants?,Shirt|Blue|Striped|One|Jeans
+/kaggle/input/sqid-test/images/B003Q5F506.jpg,What color predominates?|How many curves?|What shape are lines?|Are shapes visible?|What is brightness?,Black|Three|Curved|None|Dark
+/kaggle/input/sqid-test/images/B000CC0HZ4.jpg,What is the object?|What color is part?|What color is dots?|How many ends?|What action can do?,Rod|Silver|Black|Two|Extending
+/kaggle/input/sqid-test/images/B07K2NYR1Q.jpg,What item is stacked?|What color is foremost?|How many items?|What is texture?|What is arrangement?,Leggings|Black|Four|Soft|Folded
+/kaggle/input/sqid-test/images/B00SXK3Q2S.jpg,What is the supplement?|How many capsules?|What is the background color?|How many trees?|What is inside?,Wormwood|Sixty|White|Two|Capsules
+/kaggle/input/sqid-test/images/B01CDYB8AG.jpg,What is the main object?|What color is the keyboard?|How many keys?|Which letter is visible?|Is cord attached?,Keyboard|Black|Many|G|Yes
+/kaggle/input/sqid-test/images/B00WFAGPL6.jpg,What is the product?|What color is liquid?|What is bottle made of?|How many oils listed?|What word is prominent?,Serum|Yellow|Glass|Two|Enhance
+/kaggle/input/sqid-test/images/B01CK78BLA.jpg,Who is playing?|What color is grass?|How many bags?|What color is bubble?|What color is rope?,Girl|Green|Two|Clear|Red
+/kaggle/input/sqid-test/images/0520306651.jpg,What object predominates?|What color is background?|How many books shown?|What pierces covers?|What are books doing?,Books|Black|Two|Arrows|Standing
+/kaggle/input/sqid-test/images/1616693975.jpg,What is the object?|What color is it?|What is the binding?|How many logos?|What is shown?,Handbook|Green|Spiral|One|Text
+/kaggle/input/sqid-test/images/B07FKXZLYP.jpg,What object is central?|What color dominates?|What is under table?|How many benches?|What material is seat?,Table|White|Bench|One|Fabric
+/kaggle/input/sqid-test/images/B08RCK2BQ1.jpg,What color are the devices?|How many plugs?|What objects are present?|What shape is the case?|How many devices?,Black|Three|Microphones|Oval|Two
+/kaggle/input/sqid-test/images/1720767815.jpg,What animal is petted?|What color is feline?|Who pets the animal?|What color is backdrop?|How many children?,Cat|Pink|Girl|Blue|One
+/kaggle/input/sqid-test/images/B094JLRBSX.jpg,What is acrylic?|What color are many?|How many polishes?|What are the containers?|Where are polishes?,Powder|Pink|Twelve|Jars|Top
+/kaggle/input/sqid-test/images/B01M2CCJ8D.jpg,What brand is it?|What color is it?|How many ports?|What is circular?|What type of device?,Sena|Gray|Three|Button|Electronics
+/kaggle/input/sqid-test/images/B0795T71P6.jpg,What is the main object?|What color is the shirt?|How many words start with 'T'?|What is above the 'W'?|What is the opposite of 'nobody'?,Shirt|Gray|Two|Wings|Average
+/kaggle/input/sqid-test/images/B000XECJJI.jpg,What is the object?|What color is it?|What is the shape?|What are gems?|How many rings?,Ring|Silver|Heart|Diamonds|One
+/kaggle/input/sqid-test/images/B079R2KMGJ.jpg,What is she wearing?|What color is dress?|Where is bracelet?|How many rings?|What is she doing?,Dress|Blue|Wrist|Two|Standing
+/kaggle/input/sqid-test/images/B07C8CS979.jpg,What clothing is shown?|What color is garment?|What color is logo?|How many logos seen?|What is material?,Shirt|Red|White|One|Cotton
+/kaggle/input/sqid-test/images/B07TD9SNJT.jpg,What is the object?|What is the color?|What is the shape?|How many lenses?|Are lenses see-through?,Sunglasses|Beige|Rectangle|Two|Opaque
+/kaggle/input/sqid-test/images/B07BWLRZNN.jpg,What is she wearing?|What color is top?|What color are pants?|How many hands shown?|Are shoulders covered?,Shirt|Red|Black|One|Bare
+/kaggle/input/sqid-test/images/B07S63DQZR.jpg,What is the object?|What color is it?|What is it made of?|How many attachments?|Is cord attached?,Hairdryer|Black|Plastic|Two|Attached
+/kaggle/input/sqid-test/images/B07L5JD3D3.jpg,What is the object?|What color is object?|How many handles?|What is it made of?|What is on it?,Mug|White|One|Ceramic|Reading
+/kaggle/input/sqid-test/images/B0756P9FMN.jpg,What is the main object?|What color is the module?|What are attached?|How many holes are visible?|What is module made of?,Module|Black|Wires|Two|Metal
+/kaggle/input/sqid-test/images/B00C8C3N70.jpg,What material is the ring?|What color is packaging?|How many washers exist?|What shape is bearing?|What is the paper's material?,Metal|Green|Six|Circular|Paper
+/kaggle/input/sqid-test/images/B07H9HTSQK.jpg,What is the object?|What color is it?|How many wheels?|What are tires made of?|What number shows?,Motorcycle|Black|Two|Rubber|Four
+/kaggle/input/sqid-test/images/B07ZMK2NSK.jpg,How many packages?|Which flavor yellow?|Which bag is green?|What are these?|What is stacked?,Five|Cheddar|Green|Snacks|Stack
+/kaggle/input/sqid-test/images/B074T1QC4N.jpg,What is on plate?|What color is dress?|What animal wears hat?|How many layers cake?|What color is hair?,Cake|Red|Dog|Two|Brown
+/kaggle/input/sqid-test/images/B0756ZSMW4.jpg,What is the object?|What color is background?|What color is design?|Is it full?|How many bottles?,Bottle|Blue|White|Full|One
+/kaggle/input/sqid-test/images/B01BPO3ZC4.jpg,What product is this?|What color is it?|How many products?|What's on applicator?|What orientation?,Mascara|Black|One|Brush|Vertical
+/kaggle/input/sqid-test/images/B08FMGY614.jpg,What product is shown?|How many lipsticks?|What color is the box?|Is box closed?|What finish is advertised?,Lipstick|Six|Pink|Opened|Matte
+/kaggle/input/sqid-test/images/B0756WY9B6.jpg,What are these?|What color are they?|How many earphones?|What color are eartips?|What is the cord made of?,Headphones|Red|Two|Black|Wire
+/kaggle/input/sqid-test/images/B08J8BZZWQ.jpg,What item is displayed?|How many colors?|What is visible below neck?|What color is hair's left?|What frames the forehead?,Wig|Two|Shoulders|Black|Bangs
+/kaggle/input/sqid-test/images/B07YCF3GGY.jpg,What object is mounted?|What is the device's color?|What is the mount's shape?|How many phones?|Where is the mount?,Phone|Gray|Circular|One|Dashboard
+/kaggle/input/sqid-test/images/B071S2NX3G.jpg,What is this?|What color is it?|What is the material?|How many shoes?|What type of shoe?,Shoe|Black|Mesh|One|Walking
+/kaggle/input/sqid-test/images/B09C1PM44M.jpg,What object is this?|What color is it?|How many straps?|What is buckle material?|What is strap material?,Strap|Black|Three|Metal|Webbing
+/kaggle/input/sqid-test/images/B01IJO6RAU.jpg,What is she wearing?|What is the dress's color?|Where is the sash?|What is the dress's fabric?|How many women?,Dress|White|Waist|Lace|One
+/kaggle/input/sqid-test/images/B077MDRCBS.jpg,What is the object?|What color is it?|What is the material?|How many slippers?|What is the texture?,Slipper|Black|Suede|One|Fuzzy
+/kaggle/input/sqid-test/images/B005KDAQ3I.jpg,What is the object?|What color is it?|What shape is it?|What is it made of?|How many handles?,Container|Gray|Cylindrical|Plastic|Two
+/kaggle/input/sqid-test/images/B0743LKWMC.jpg,What is it?|What color?|What material?|How many?|What part?,Boot|Gray|Leather|One|Heel
+/kaggle/input/sqid-test/images/B0722VVNLQ.jpg,What brand is featured?|What color is the box?|Who is pictured?|How many tests?|What does box contain?,Clearblue|Purple|Baby|Twenty|Tests
+/kaggle/input/sqid-test/images/B07V69ZVX2.jpg,What is the main object?|What color is the dress?|What length is it?|What is it made of?|How many bows?,Dress|Navy|Knee|Fabric|One
+/kaggle/input/sqid-test/images/B011U0GJHG.jpg,What object is present?|What color is prevalent?|What shape is visible?|How many objects exist?|What is the material?,Dominoes|Yellow|Rectangular|Many|Wood
+/kaggle/input/sqid-test/images/B079P9NSLC.jpg,What color is it?|How many objects?|What is the material?|Is base attached?|What is this?,Black|One|Metal|Attached|Mount
+/kaggle/input/sqid-test/images/B00M3CP59Y.jpg,What vehicle is shown?|What color is truck?|How many pallets?|What item is loaded?|What color are tires?,Truck|Blue|Four|Pallets|Black
+/kaggle/input/sqid-test/images/B0882NHL8D.jpg,What object is present?|What color is device?|What shape is object?|How many remotes?|What is beside box?,Receiver|Black|Rectangle|One|Remote
+/kaggle/input/sqid-test/images/B07L4QW7QH.jpg,What is the object?|What color is it?|What is the material?|How many doors?|Which side is door?,Locker|White|Metal|One|Right
+/kaggle/input/sqid-test/images/B07DQZSZGK.jpg,What object is pictured?|What color is label?|What ingredient listed?|How many capsules?|What color is lid?,Bottle|Blue|Vegan|Sixty|Black
+/kaggle/input/sqid-test/images/B08SJ1JMHK.jpg,What is the object?|How many blades?|What color is fixture?|What color is remote?|What are blades made of?,Fan|Three|Black|White|Wood
+/kaggle/input/sqid-test/images/B000W34PDI.jpg,What object is this?|What color is it?|What is the blade material?|How many holes?|Is blade serrated?,Knife|Black|Metal|One|Serrated
+/kaggle/input/sqid-test/images/B07FMLPBW5.jpg,What is she wearing?|What color is the dress?|How many people?|What is dress made of?|What is she doing?,Dress|Pink|One|Fabric|Standing
+/kaggle/input/sqid-test/images/1529032970.jpg,What object dominates?|What color is background?|Whose name appears?|What is the first word?|What kind of book?,Book|Black|Willink|Leadership|Manual
+/kaggle/input/sqid-test/images/B078SQFRLS.jpg,What food is pictured?|What color is package?|What language is written?|How many packs?|Is it certified?,Noodles|Pink|Korean|Five|Halal
+/kaggle/input/sqid-test/images/B07X81YGQ1.jpg,What is the object?|What color are rollers?|How many rollers?|What color is frame?|What is it made of?,Roller|Pink|Four|Black|Plastic
+/kaggle/input/sqid-test/images/B075FFYWT1.jpg,What is the main object?|What color is the cushion?|What color is the frame?|What is the seat made of?|How many chairs are there?,Chair|Gray|White|Fabric|One
+/kaggle/input/sqid-test/images/B07KWRJWRT.jpg,What are these?|How many bulbs?|What is the material?|What color are they?|What shape are they?,Bulbs|Eight|Glass|White|Candle
+/kaggle/input/sqid-test/images/B07D7TKLHM.jpg,What is the main object?|What color is it?|What is the cable's shape?|How many logos are visible?|What is the plug made of?,Adapter|Black|Round|One|Metal
+/kaggle/input/sqid-test/images/B085HTZRRR.jpg,What device displays temperature?|What color is the device?|What shape is the device?|What is the other object?|How many objects exist?,Thermometer|White|Square|Smartphone|Two
+/kaggle/input/sqid-test/images/B07VBL4DG7.jpg,How many utensils?|What is material?|What is color?|What is surface?|What is surface's state?,Five|Metal|Rosegold|Table|Shining
+/kaggle/input/sqid-test/images/B085G4WMKT.jpg,How many posters?|Who's holding hands?|What color is shirt?|What is writing on?|What kind of cover?,Two|Boy|White|Wall|Book
+/kaggle/input/sqid-test/images/B076MVDP6D.jpg,What is it?|What color?|How many?|What shape?|Is it hanging?,Plant|Green|Many|Round|Hanging
+/kaggle/input/sqid-test/images/B00ILBUG40.jpg,What is the object?|What color is it?|What shape is it?|How many bottles?|What's the product?,Bottle|White|Rectangular|One|Conditioner
+/kaggle/input/sqid-test/images/1986532364.jpg,What object is shown?|What is background color?|What kind of freedom?|Whose name is mentioned?|How many words in title?,Book|Yellow|Financial|Blank|Five
+/kaggle/input/sqid-test/images/B001GKJZWC.jpg,What is the largest number?|What is the greatest single digit?|What are the objects?|What is the background color?|How many asterisks are there?,Thirtyone|Seven|Numbers|Black|Two
+/kaggle/input/sqid-test/images/B07WW41CBH.jpg,What color are pants?|How many shoes?|What word appears?|What material are pants?|What is the item?,Black|Two|Privileged|Cotton|Footwear
+/kaggle/input/sqid-test/images/B07XGJNTYC.jpg,What color is towel?|How many towels?|What is woman?|What touches face?|What is the material?,Pink|Three|Smiling|Finger|Terrycloth
+/kaggle/input/sqid-test/images/B013KOPSRM.jpg,What color is the container?|What is the product called?|How many stripes shown?|What food is cooked?|What is the packaging?,Red|Microwave|Three|Eggs|Cardboard
+/kaggle/input/sqid-test/images/B01N75TO8O.jpg,What color is the bathtub?|What is the shower screen material?|What shape are the wall tiles?|How many plants?|Is it indoor?,White|Glass|Hexagon|One|Indoor
+/kaggle/input/sqid-test/images/B07KSRLHK5.jpg,What item is shown?|What color is main?|What color is buckle?|What color is trim?|How many buckles?,Skirt|Red|Gold|White|One
+/kaggle/input/sqid-test/images/B00K6JUG4K.jpg,What is the supplement?|What color is the label?|How many cows?|What flavor is it?|What animal is drawn?,Collagen|Blue|One|Unflavored|Cow
+/kaggle/input/sqid-test/images/B07T9JWKMN.jpg,What color predominates?|How many Pikachus?|What color is background?|What is screen's shape?|What is character?,Yellow|Five|Black|Rectangle|Pokemon
+/kaggle/input/sqid-test/images/B013WC0P2A.jpg,What is the main object?|What is the dominant color?|What is the material?|How many scroll wheels?|Where is the logo?,Mouse|Green|Plastic|One|Top
+/kaggle/input/sqid-test/images/1408845679.jpg,What is the main object?|What color is the dragon?|How many eggs are visible?|What activity is 'Illustrated'?|Who is facing the dragon?,Dragon|Black|One|Reading|Boy
+/kaggle/input/sqid-test/images/B07Q7G4KDT.jpg,What is the main object?|What color is the motorcycle?|How many wheels?|What is the tire material?|Where is the motorcycle?,Motorcycle|Black|Two|Rubber|Outside
+/kaggle/input/sqid-test/images/B0748FMQ8S.jpg,What is this?|Hose color?|Material?|How many hoses?|Sleeve color?,Gun|Black|Metal|One|Pink
+/kaggle/input/sqid-test/images/B083GBW4KF.jpg,What object is this?|What color is it?|What material is it?|How many logos?|What color is handle?,Bottle|Coral|Metal|One|Black
+/kaggle/input/sqid-test/images/B0789NQ8M1.jpg,What color is it?|What color are grommets?|How many grommets?|What shape is it?|What is the material?,Orange|Gold|Two|Rectangular|Leather
+/kaggle/input/sqid-test/images/B00GPGKN4G.jpg,What is the main object?|What color is the scooter?|What is on the front?|How many wheels are there?|What is above the base?,Scooter|Black|Basket|Four|Seat
+/kaggle/input/sqid-test/images/B081B8JC51.jpg,What animal is this?|What color is the hat?|How many candles?|What toy sits atop?|Is it inflated?,Bear|Blue|Nine|Dreidel|Inflated
+/kaggle/input/sqid-test/images/B06XGCS6PV.jpg,What is the main object?|What color is the mount?|How many 'LOCK' labels?|What does arrow indicate?|What is material?,Mount|Black|Two|Lock|Metal
+/kaggle/input/sqid-test/images/B00HE66TEO.jpg,What is the object?|What is the color?|What is brand name?|How many bottles?|What is material?,Paint|Brown|Dupli-Color|One|Plastic
+/kaggle/input/sqid-test/images/B01I21HM3G.jpg,Who is pictured?|Shirt color?|Sleeve length?|Hair color?|Pants color?,Woman|White|Long|Dark|Blue
+/kaggle/input/sqid-test/images/B01N7XH9UU.jpg,What is pictured?|What color is track?|How many gorillas?|What is it made?|Is gorilla attached?,Garage|Orange|One|Plastic|Attached
+/kaggle/input/sqid-test/images/B093TPSZV1.jpg,What are the desserts?|How many desserts?|What color is box?|What shape are desserts?|Is tag attached?,Chocolate|Twelve|Brown|Circles|Attached
+/kaggle/input/sqid-test/images/B07HYG6M4Y.jpg,What object is pictured?|What color is the cap?|What is the syringe made of?|How many syringes?|Is the cylinder clear?,Syringe|Orange|Plastic|One|Transparent
+/kaggle/input/sqid-test/images/B004BI7R4O.jpg,Object?|Color?|Material?|Number?|Contents?,Rosary|Red|Wooden|One|Beads
+/kaggle/input/sqid-test/images/B00TT749DO.jpg,What ride appears?|What color is jacket?|What are they riding?|Is woman smiling?|What does sign say?,Carousel|Brown|Horses|Smiling|Rules
+/kaggle/input/sqid-test/images/B00N0L5QKK.jpg,What is the object?|What color is it?|What shape is it?|What is the texture?|How many objects?,Pizza|Beige|Oval|Rough|One
+/kaggle/input/sqid-test/images/B00BM0A2GY.jpg,What product is this?|What color is bottle?|What type dispenser?|How many bottles?|What ingredient inside?,Gel|Green|Pump|One|Aloe
+/kaggle/input/sqid-test/images/B07DMG4F2H.jpg,What's the main object?|What color is head?|What is the stand?|How many spools?|Material of cap?,Mannequin|Beige|Clamp|One|Mesh
+/kaggle/input/sqid-test/images/B005C2NA4E.jpg,What is the product?|What color is label?|What is the cap made from?|How many bottles?|What is the contents?,Oil|Lavender|Plastic|One|Liquid
+/kaggle/input/sqid-test/images/B000C0140S.jpg,What product is?|Background color?|Subject displayed?|Color specified?|How many boats?,Paint|White|Boat|Black|One
+/kaggle/input/sqid-test/images/B01LZG05V6.jpg,What is this?|What color is topping?|What is cup made of?|How many scoops?|What is sprinkled on?,Dessert|White|Glass|Several|Toffee
+/kaggle/input/sqid-test/images/B07BC66HQ1.jpg,What is the main object?|What color is the poncho?|What tool is present?|How many bandages?|What color are the sticks?,Bag|Black|Scissors|Many|Green
+/kaggle/input/sqid-test/images/B0788KC81K.jpg,What is the main object?|What color is it?|How many legs?|What is its material?|Are doors shut?,Wardrobe|Gray|Four|Metal|Open
+/kaggle/input/sqid-test/images/B096M6JG8P.jpg,What color is bin?|What is frame made of?|How many bins?|What is enclosure?|Where is bin?,Green|Metal|One|Cabinet|Inside
+/kaggle/input/sqid-test/images/B07M7VPP5X.jpg,What is the pattern?|What color is one stripe?|What color is another stripe?|What color is lightest?|What is material?,Striped|Pink|Brown|Beige|Cloth
+/kaggle/input/sqid-test/images/B001NGF6AY.jpg,What is the main object?|What is the object's color?|What material is it?|How many legs seen?|Where is the object?,Rack|Black|Metal|Two|Outside
+/kaggle/input/sqid-test/images/B07BDMT6FS.jpg,What color is the background?|From which source?|How many words in 'U.S.'?|What color is 'Licence'?|What word follows 'Complete'?,Red|Audible|Two|White|Content
+/kaggle/input/sqid-test/images/B002YF8YSE.jpg,What object is this?|What color is it?|What shape is it?|How many bulbs?|Where is hole?,Light|White|Round|One|Inside
+/kaggle/input/sqid-test/images/B076753542.jpg,What garment is this?|What color is it?|How are sleeves?|How many cords?|What is it made of?,Hoodie|Black|Long|Two|Cloth
+/kaggle/input/sqid-test/images/B07YXCGG1B.jpg,What garment is worn?|What color is it?|What is the material?|How many people?|Is it hooded?,Jumpsuit|Purple|Velvet|One|Hooded
+/kaggle/input/sqid-test/images/B07DWQDR7M.jpg,Who is pictured?|Shirt color?|Pants color?|How many logos?|Stripes present?,Woman|White|Black|One|None
+/kaggle/input/sqid-test/images/B00FQE3YYY.jpg,What clothing is shown?|What color is the shirt?|What does the man have?|What color are the pants?|How many people?,Shirt|Grey|Arms|Black|One
+/kaggle/input/sqid-test/images/B0747PX3NZ.jpg,What color is upconverter?|How many antennas?|What is the balun?|What is antenna's material?|What color is connector?,Black|Two|Antenna|Metal|Gold
+/kaggle/input/sqid-test/images/B06XVQ3PTK.jpg,What is the object?|What color is it?|What is dangling?|How many charms?|Is it open?,Wallet|Gray|Leaf|One|Closed
+/kaggle/input/sqid-test/images/B07QFVR3WF.jpg,Who is depicted?|Hair color?|What is the staff?|Pants material?|How many sandals?,Nami|Orange|Metal|Jeans|Two
+/kaggle/input/sqid-test/images/B07Q71LX84.jpg,What energy is utilized?|How many panels?|What shade are cells?|What type of board?|What color are handles?,Solar|Two|Black|Panel|Orange
+/kaggle/input/sqid-test/images/B07RFGJXVM.jpg,What object is shown?|What color is it?|What shape is finial?|What are grommets made of?|How many panels?,Curtain|Blue|Round|Metal|Five
+/kaggle/input/sqid-test/images/B01FJFZ87A.jpg,How many cups?|What color is the lid?|What color is dinosaur?|What is cups material?|What's the theme?,Two|Blue|Purple|Glass|Construction
+/kaggle/input/sqid-test/images/B07VC1N54B.jpg,What item is pictured?|What hue is dominant?|What is the case's material?|How many objects?|Is it shut?,Phone|Purple|Leather|Two|Open
+/kaggle/input/sqid-test/images/B073311ZS8.jpg,What is the object?|What color is it?|What is the clasp made of?|How many rings?|Is it curved?,Keyring|Black|Metal|One|Curved
+/kaggle/input/sqid-test/images/B07DPNWWD1.jpg,What garment shown?|What color fabric?|What material shown?|How many pockets?|Are pants faded?,Jeans|Blue|Cotton|Two|Dark
+/kaggle/input/sqid-test/images/B075KNJ6QG.jpg,What object is present?|What color is the holster?|What color are the jeans?|How many hands visible?|What is the holster made of?,Gun|Black|Blue|One|Fabric
+/kaggle/input/sqid-test/images/B0174AF4KY.jpg,What object is this?|What color is it?|What's the material?|How many handles?|What color are accents?,Purse|Black|Leather|One|Gold
+/kaggle/input/sqid-test/images/B01HQFQMCG.jpg,What covers bed?|What color is duvet?|What color are sheets?|How many lamps?|Where are pillows?,Comforter|Gray|White|One|Bed
+/kaggle/input/sqid-test/images/B06ZXZ3JPZ.jpg,What nut is inside?|What color is lid?|What kind ingredient?|How many ingredients?|What is inside?,Peanut|White|Organic|One|Butter
+/kaggle/input/sqid-test/images/B07X21686K.jpg,What item is shown?|What color is background?|What is the container?|How many words 'Rooney'?|Is lid up?,Book|Olive|Can|Two|Open
+/kaggle/input/sqid-test/images/B07TP1XR2V.jpg,What color is the corkscrew?|How many corks?|What color is the base?|What is the main material?|What orientation is the device?,Gold|Two|Black|Metal|Vertical
+/kaggle/input/sqid-test/images/B07RHY97ZZ.jpg,How many ports?|What color is body?|What are below?|What color is ports?|What is endpoint?,Two|Black|Screws|Blue|Point
+/kaggle/input/sqid-test/images/B01I5WG6WK.jpg,What is the object?|What color is bottle?|What color is lid?|How many bottles?|What covers bottle?,Shampoo|White|Silver|One|Text
+/kaggle/input/sqid-test/images/B003983I1S.jpg,What item is this?|What color is box?|How many cartridges?|What color are blades?|How many packages?,Razor|Blue|Eight|Green|Several
+/kaggle/input/sqid-test/images/B07TYHZX6V.jpg,What is the object?|What color is it?|What shape is it?|How many lights?|What is the clip made of?,Case|Black|Round|One|Metal
+/kaggle/input/sqid-test/images/B07V1HGD37.jpg,What object is pictured?|What color is foremost?|What style is binding?|How many colors visible?|What is made of sheets?,Notebooks|Yellow|Spiral|Three|Paper
+/kaggle/input/sqid-test/images/B078CJYT4P.jpg,What color is many vehicles?|How many figurines?|What transports toys?|What is the material?|What theme is represented?,Orange|Nine|Truck|Plastic|Construction
+/kaggle/input/sqid-test/images/B07GF1JHJW.jpg,What is the structure?|What color are curtains?|What is tabletop's shape?|How many trees visible?|What is the ground?,Gazebo|Beige|Square|Two|Brick
+/kaggle/input/sqid-test/images/B00J0I1822.jpg,What object is this?|What color is bottle?|What color is foil?|How many party poppers?|What action happens?,Bottle|Black|Gold|One|Popping
+/kaggle/input/sqid-test/images/B01HVGJKDS.jpg,What color is center?|What shape is object?|How many holes present?|What brand is this?|What kind of disc?,Silver|Round|Seven|Electric|Dust
+/kaggle/input/sqid-test/images/B07F46W4LJ.jpg,What pet is this?|What color is leash?|How many dogs?|What is texture?|Where is dog?,Dog|Blue|Two|Plush|Box
+/kaggle/input/sqid-test/images/B000OCQ134.jpg,What is the object?|What color is it?|What is the material?|How many shoes?|Is it tied?,Shoe|White|Leather|One|Laced
+/kaggle/input/sqid-test/images/B00063E1Z6.jpg,What color is the case?|How many CDs visible?|What's inside?|Is the case open?|What is this?,Silver|Two|CDs|Open|Case
+/kaggle/input/sqid-test/images/B0019WO5W2.jpg,What is the main object?|What color is the boot?|What is the texture?|How many boots?|What is it made of?,Boot|Black|Shiny|One|Rubber
+/kaggle/input/sqid-test/images/B00HQ4KSGE.jpg,What is the main object?|What color is jacket?|What brand is visible?|What color are pants?|How many zippers visible?,Jacket|Black|Columbia|Beige|One
+/kaggle/input/sqid-test/images/B007GDYQZY.jpg,What color is it?|What objects?|What surface?|What brightness?|How many shapes?,Pink|None|Flat|Light|Zero
+/kaggle/input/sqid-test/images/B00002N9F9.jpg,What is the main object?|What color is the lid?|What is the object's shape?|What is it made of?|How many latches?,Container|Gray|Rectangular|Plastic|One
+/kaggle/input/sqid-test/images/B08TQWB6JK.jpg,What garment is visible?|What's shirt's primary color?|What's fabric's transparency?|How many people?|What's edge trim?,Shirt|Brown|Sheer|One|Ruffled
+/kaggle/input/sqid-test/images/B086XF82Y1.jpg,What garment is displayed?|What color is the coat?|How many buttons appear?|What is material?|How is the jacket's length?,Jacket|Blue|Eight|Fabric|Long
+/kaggle/input/sqid-test/images/B06XPZ6YRP.jpg,What are these?|How many sleeves?|What color is one?|What shape are they?|What is the material?,Sleeves|Three|Black|Curved|Fabric
+/kaggle/input/sqid-test/images/B086SSM25K.jpg,What color is surface?|How many holes exist?|What color is base?|What object is shown?|What shape is inset?,Green|Two|Black|Mat|Hexagon
+/kaggle/input/sqid-test/images/B01HRJIG3Y.jpg,What is the object?|What color is frame?|How many lenses?|Lens color?|Material?,Sunglasses|Black|Two|Yellow|Plastic
+/kaggle/input/sqid-test/images/B07XRW8GMF.jpg,What material is it?|What color is it?|What shape is it?|What form is it?|How many are present?,Elastic|White|Round|Roll|One
+/kaggle/input/sqid-test/images/B08B71SPZG.jpg,What color is the largest PEZ?|How many POPS are included?|What color are the socks?|What shape is the item below socks?|Which character has Christmas lights?,Red|Five|Green|Box|Pluto
+/kaggle/input/sqid-test/images/B07QF12G7H.jpg,What is the main object?|What color is the suitcase?|How many cherries?|What is the red item?|Is it cartoon-themed?,Suitcase|Pink|Two|Present|Cartoon
+/kaggle/input/sqid-test/images/B00RF3XFWA.jpg,What are the jars filled with?|What color is the shelf?|How many jars are there?|What is the jar material?|What direction is the shelf?,Spices|Brown|Twenty|Glass|Up
+/kaggle/input/sqid-test/images/B01N13ZZ8X.jpg,What object is displayed?|What color is the case?|What color is the grip?|How many gigabytes?|How many headbands?,Camera|Black|Orange|Thirtytwo|One
+/kaggle/input/sqid-test/images/B00000JICB.jpg,Who pops?|What color is Tomy?|What color is barrel?|How many colors?|What is pirate?,Pirate|Yellow|Brown|Six|Smiling
+/kaggle/input/sqid-test/images/B017Y8T2A4.jpg,Who is the author?|What color is 'light'?|What object has lights?|How many candles?|Where is the light?,Heidi|White|Tree|One|Window
+/kaggle/input/sqid-test/images/B08MBNX26G.jpg,What is pictured?|What color are bottles?|How many pipettes?|What type applicator?|What material are funnels?,Bottles|Red|Five|Rollers|Plastic
+/kaggle/input/sqid-test/images/B07CJKPLTK.jpg,What is the main object?|What color is handle?|What shape is emblem?|How many characters?|What is the mug made of?,Mug|Black|Circular|Two|Ceramic
+/kaggle/input/sqid-test/images/B07HB9R7ZC.jpg,How many monitors?|What color is keyboard?|What is below monitors?|Which monitor is further?|What material is tower?,Two|Black|Keyboard|Left|Metal
+/kaggle/input/sqid-test/images/B06XHYQ5F5.jpg,What object is pictured?|What color is seat?|What shape is back?|How many pockets?|What is seat material?,Chair|Black|Rectangular|One|Fabric
+/kaggle/input/sqid-test/images/B08PVFLWYN.jpg,What are they?|How many?|What color?|What shape?|What material?,Envelopes|Four|Yellow|Rectangular|Paper
+/kaggle/input/sqid-test/images/B01MSQW16O.jpg,What part is visible?|What is the carburetor color?|How many filters?|What color is mat?|What color are hoses?,Carburetor|Gray|Two|Brown|Green
+/kaggle/input/sqid-test/images/B06WW31X6S.jpg,What is product?|What color is container?|What is material?|What shape is container?|How many containers?,Cream|Orange|Glass|Circular|One
+/kaggle/input/sqid-test/images/B00004YNN1.jpg,What tool is this?|What color is it?|What is the blade?|How many blades?|What part is long?,Scraper|White|Metal|One|Handle
+/kaggle/input/sqid-test/images/B07FLGWYSF.jpg,How many people?|Bra color?|Face expression?|Skin texture?|Panties color?,Two|Black|Smiling|Sand|White
+/kaggle/input/sqid-test/images/B07THF8JQG.jpg,What color is device?|How many lights?|What powers panel?|What is the shape?|What brand is?,Black|Five|Solar|Rectangular|Patriots
+/kaggle/input/sqid-test/images/0849770513.jpg,What instrument appears?|What color is text?|What color is flute?|How many books?|What is this?,Flute|Red|Silver|One|Book
+/kaggle/input/sqid-test/images/B07927XCPL.jpg,What item is shown?|What color is it?|What is the material?|Is it closed?|How many hands?,Wallet|Black|Leather|Open|Two
+/kaggle/input/sqid-test/images/B07BVMQW9G.jpg,What is she wearing?|What color is the bra?|What is the bra made of?|How many straps visible?|What is the person doing?,Bra|Pink|Lace|Two|Smiling
+/kaggle/input/sqid-test/images/B097RKBDMY.jpg,What are the dishes made of?|What color are the dishes?|How many pitchers are there?|What is the shape of the container?|What is the food item?,Ceramic|White|One|Square|Bread
+/kaggle/input/sqid-test/images/B01CW4DTB8.jpg,What is the object?|What color is it?|What shape is it?|What is the material?|How many cameras?,Camera|White|Round|Plastic|One
+/kaggle/input/sqid-test/images/B00WDBPM0M.jpg,What is the product?|What is the lid's color?|How many capsules?|What is the label's color?|What is this object?,Multivitamin|White|Ninety|Black|Bottle
+/kaggle/input/sqid-test/images/B07RGKP59J.jpg,What object is present?|What color is pillow?|What is person doing?|What color are pants?|How many people?,Pillow|White|Sleeping|Black|One
+/kaggle/input/sqid-test/images/B07L8NDSMM.jpg,What object is shown?|What color is bones?|What direction is skeleton?|How many skeletons?|What pose is skeleton?,Skeleton|White|Upright|One|Standing
+/kaggle/input/sqid-test/images/B07P14TLPN.jpg,What garment is this?|What color is it?|What animal is printed?|How many people?|What closes the front?,Jumpsuit|Pink|Moose|One|Buttons
+/kaggle/input/sqid-test/images/B07SZPJQG5.jpg,What object is shown?|What color is border?|What is monitor's shape?|How many cars?|Is monitor folded?,Monitor|Black|Rectangle|One|Open
+/kaggle/input/sqid-test/images/B01DF0R8II.jpg,What is depicted?|What color is background?|What are the white shapes?|What color are the stripes?|What is it made of?,Shirt|Blue|Stars|Red|Fabric
+/kaggle/input/sqid-test/images/B07T2NBLX9.jpg,What object is this?|How many cameras?|What color is case?|Which brand is?|What shape is it?,Phone|Two|Clear|Apple|Rectangular
+/kaggle/input/sqid-test/images/B07CST8WM6.jpg,What object is this?|What color is it?|What orientation are stripes?|What is the pattern?|How many pockets?,Backpack|Pink|Vertical|Striped|Two
+/kaggle/input/sqid-test/images/B003OPE57C.jpg,What is the main object?|What color is the container?|What is the bottle made of?|How many bottles?|What is inside?,Bottle|Green|Plastic|One|Liquid
+/kaggle/input/sqid-test/images/B007HIV4JE.jpg,What is pictured?|What color is it?|What shape is it?|What is it made of?|How many lids?,Lid|Blue|Round|Plastic|One
+/kaggle/input/sqid-test/images/B01N7CQ304.jpg,What is this object?|What color predominates?|How many legs visible?|What is leg's material?|Where is it placed?,Feeder|Brown|Three|Metal|Outside
+/kaggle/input/sqid-test/images/B004VU89XA.jpg,What object is shown?|What color is connector?|What is the top made of?|How many arrows?|What orientation is it?,Generator|Black|Metal|One|Horizontal
+/kaggle/input/sqid-test/images/B01HXHGARY.jpg,What is the object?|What color is it?|How many buttons?|What is present?|What is its shape?,Charger|Blue|Five|Text|Rectangular
+/kaggle/input/sqid-test/images/B01HIJ2XM8.jpg,What object is this?|What color is it?|What is the shape?|How many handles?|Is it full?,Tray|White|Rectangle|Two|Empty
+/kaggle/input/sqid-test/images/B08W8CP316.jpg,What color is toothbrush?|How many products?|What is the bottle made of?|What's the product's effect?|What shape is toothbrush?,White|Two|Plastic|Whitening|U
+/kaggle/input/sqid-test/images/B0791MMC9P.jpg,What is the image?|What color is prominent?|What is the shape?|What color is frame?|How many streaks?,Painting|Blue|Rectangle|Gold|Many
+/kaggle/input/sqid-test/images/054588621X.jpg,How many girls?|Vest color?|Background shows?|What object?|Pose of girls?,Four|Green|Lockers|Book|Standing
+/kaggle/input/sqid-test/images/B07FYDTRHK.jpg,What object is this?|What color is it?|What shape is this?|What is it made of?|How many rings?,Ring|Gold|Circular|Metal|One
+/kaggle/input/sqid-test/images/B075QMD3R2.jpg,What is the object?|What color predominates?|How many colors?|What is the pattern?|What is the material?,Jacket|Brown|Many|Camo|Fabric
+/kaggle/input/sqid-test/images/B014QROIGO.jpg,What object is it?|What color is it?|What is it made of?|How many buckles?|What shape is it?,Belt|Black|Leather|None|Rounded
+/kaggle/input/sqid-test/images/B01I4W2FIU.jpg,What color are they?|How many screws?|What are these?|What is the material?|What orientation is top handle?,Silver|Three|Handles|Metal|Horizontal
+/kaggle/input/sqid-test/images/B08G827L8K.jpg,What object featured?|How many microphones?|What color windscreen?|What color microphone?|What material attachments?,Microphones|Two|Black|Silver|Plastic
+/kaggle/input/sqid-test/images/B0761YD8XR.jpg,What is this?|What color?|What material?|How many swooshes?|Where is swoosh?,Shoe|White|Mesh|One|Outside
+/kaggle/input/sqid-test/images/B01LFTSOHK.jpg,What material is the rod?|What color is the lanyard?|What is the rod's shape?|How many firestarters?|What is the rod's texture?,Ferrocerium|Brown|Cylindrical|One|Smooth
+/kaggle/input/sqid-test/images/B07S637YYN.jpg,How many keychains?|What is the handle's color?|What shape is the ring?|What is the chain material?|What is the insert color?,Two|White|Circular|Metal|Black
+/kaggle/input/sqid-test/images/B07RZV2DW8.jpg,What color is the station?|How many tips?|What is the coil's material?|What tool is this?|What color is the cord?,Orange|Five|Metal|Soldering|Black
+/kaggle/input/sqid-test/images/B07F2JSN88.jpg,What clothing is worn?|What color are pants?|How many shoes exist?|What material are pants?|What color are shoes?,Trousers|Beige|Two|Cotton|White
+/kaggle/input/sqid-test/images/B07YDJXD6B.jpg,What is the main object?|What color is the pan?|What is the lid made of?|What shape is the lid?|How many handles?,Pan|Red|Glass|Round|One
+/kaggle/input/sqid-test/images/B08HVZLQ4F.jpg,What is the object?|What color is it?|What is the casing?|How many lenses?|Are buttons visible?,Camera|Black|Metal|One|None
+/kaggle/input/sqid-test/images/B06XDYS97V.jpg,What are they?|What color are they?|How many shorts?|What waistband type?|What's the material?,Shorts|Navy|Three|Elastic|Cotton
+/kaggle/input/sqid-test/images/B079VLFD7D.jpg,What is the main object?|What color is the rifle?|What is the material?|How many magazines?|Where is the rifle?,Rifle|Black|Metal|One|Outdoors
+/kaggle/input/sqid-test/images/B0815T64G6.jpg,What is the pet?|What color is blind?|What is window made of?|How many plants?|Is blind open?,Dog|Beige|Glass|Two|Closed
+/kaggle/input/sqid-test/images/B00I04Z52G.jpg,What is the object?|What color is it?|What is it made of?|How many legs?|What is its position?,Rack|Gray|Metal|Two|Upright
+/kaggle/input/sqid-test/images/B00SSLE0QS.jpg,What tool is this?|What color is it?|What is it made of?|How many chainsaws?|What color is blade?,Chainsaw|Orange|Plastic|One|Gray
+/kaggle/input/sqid-test/images/B07L5KBXY1.jpg,What is this?|What color is it?|What is it made of?|What color are straps?|How many pockets?,Bag|Teal|Fabric|Gray|One
+/kaggle/input/sqid-test/images/B007ZYH4BM.jpg,What is this?|What is the cooler's color?|What color is the lid?|What brand is it?|How many coolers?,Cooler|Gray|White|Igloo|One
+/kaggle/input/sqid-test/images/B086FVYGP2.jpg,How many glasses?|What material?|What color?|What appears?|What's inside?,Two|Glass|Red|Text|Liquid
+/kaggle/input/sqid-test/images/B074DWRZH5.jpg,What garment is this?|What color is hood?|What is pattern?|How many logos?|Where is logo?,Hoodie|Green|Camouflage|One|Front
+/kaggle/input/sqid-test/images/B07BBS1VMS.jpg,What is it?|What color?|What shape?|How many?|What material?,Necklace|Gold|Round|One|Metal
+/kaggle/input/sqid-test/images/1934825565.jpg,What is the background color?|Which image has a crown?|How many animals are present?|Which animal is running?|What word is at the top?,Orange|Queen|Four|Dog|Name
+/kaggle/input/sqid-test/images/B09FDW4PG6.jpg,What are the objects?|What color are ladybugs?|What shape are boards?|How many pegs?|What color is base?,Ladybugs|Red|Square|Six|Yellow
+/kaggle/input/sqid-test/images/B01DJ4BCF0.jpg,What object is this?|What is its color?|What is it made of?|What shape is it?|How many lenses?,Lens|Gray|Metal|Round|One
+/kaggle/input/sqid-test/images/B07BQ5C3H5.jpg,What color predominates?|How many curves shown?|What shape are lines?|What is the lighting?|Are objects visible?,Black|Three|Curves|Dark|None
+/kaggle/input/sqid-test/images/B06Y5CJRYB.jpg,What is this?|What color is it?|What is the material?|How many boots?|What is the height?,Boot|Brown|Suede|One|Tall
+/kaggle/input/sqid-test/images/B00QVLQHAO.jpg,What is the object?|What color is box?|What is pump made of?|How many hoses?|Is it cordless?,Pump|Blue|Plastic|One|No
+/kaggle/input/sqid-test/images/B013RU76Z6.jpg,What color is the shirt?|How many people?|What are clasped?|What shape frame?|Who is depicted?,Gray|One|Hands|Square|Tupac
+/kaggle/input/sqid-test/images/B078ZL3KVH.jpg,What is the main object?|What color is the duck?|What covers its body?|How many ducks?|What is the duck doing?,Duck|Brown|Feathers|One|Resting
+/kaggle/input/sqid-test/images/B00CLVNZIU.jpg,What is the main object?|What is the bag's color?|How many logos?|What is material?|What color is logo?,Bag|Black|One|Nylon|White
+/kaggle/input/sqid-test/images/B00T6PTQ6Y.jpg,What color is it?|What is it made from?|How many lids?|What shape is handle?|What part is shown?,Black|Plastic|One|Twisted|Top
+/kaggle/input/sqid-test/images/B01EU1L33M.jpg,What is the object?|What is the cap's color?|What is back material?|What is cap's shape?|How many logos?,Hat|Gray|Mesh|Round|One
+/kaggle/input/sqid-test/images/B014JNLFRA.jpg,What is the product?|What color is background?|How many blades?|What color is handle?|How many cartridges?,Razor|Orange|Five|Blue|Four
+/kaggle/input/sqid-test/images/B07BSGVR6X.jpg,What objects are prominent?|What color is box?|How many cards shown?|Where are characters?|What color hair?|},Cards|Pink|Four|Bed|Blonde
+/kaggle/input/sqid-test/images/B073GJY95J.jpg,What are those?|What color is?|How many are?|What's material?|What is shape?,Mittens|White|Nine|Fabric|Rounded
+/kaggle/input/sqid-test/images/B07WJYY49P.jpg,What object is this?|What color is camera?|What is lens shape?|What brand is it?|How many lenses?,Camera|Black|Circular|Canon|One
+/kaggle/input/sqid-test/images/B0922R4YL2.jpg,What object stands tallest?|What is the ocean's color?|What color is building?|How many moons visible?|What is activity implied?,Lighthouse|Blue|White|One|Reading
+/kaggle/input/sqid-test/images/B071GXMM2R.jpg,What is depicted?|What color are bags?|How many bags?|What is the material?|What orientation bags?,Bags|Black|Three|Paper|Vertical
+/kaggle/input/sqid-test/images/B08FLZNYGB.jpg,What word is repeated?|What is the emblem color?|How many 'SRS' emblems?|What is the shape of '5.7L' plate?|What kind of characters are there?,Tundra|Black|Two|Rectangular|Letters
